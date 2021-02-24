@@ -31,6 +31,7 @@ Others:
 - [ ] Improve imports (@shared..etc)
 - [ ] Add security headers
 - [ ] [BUG] Disappearing logo in Firefox after being inactive for a while
+- [ ] Maskable Icon (https://web.dev/maskable-icon/)
 
 Done: 
 - [x] Add "CDU" 
