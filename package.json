@@ -1,5 +1,5 @@
 {
-  "name": "election-helper",
+  "name": "eschomat",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -8,10 +8,10 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "dev:ssr": "ng run election-helper:serve-ssr",
-    "serve:ssr": "node dist/election-helper/server/main.js",
-    "build:ssr": "ng build --prod && ng run election-helper:server:production",
-    "prerender": "ng run election-helper:prerender"
+    "dev:ssr": "ng run eschomat:serve-ssr",
+    "serve:ssr": "node dist/eschomat/server/main.js",
+    "build:ssr": "ng build --prod && ng run eschomat:server:production",
+    "prerender": "ng run eschomat:prerender"
   },
   "private": true,
   "dependencies": {
