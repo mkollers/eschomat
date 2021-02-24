@@ -1,0 +1,76 @@
+.card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 3px 15px rgb(51 51 51 / 20%);
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(4, auto);
+  grid-template-areas:
+    "image"
+    "header"
+    "content"
+    "footer"
+    "additional";
+  margin: auto;
+  max-width: 800px;
+  overflow: hidden;
+  transition: 0.2s ease;
+  width: 100%;
+
+  .card--image {
+    grid-area: image;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  .card--content {
+    grid-area: content;
+    margin: 0 25px;
+    min-height: 7rem;
+  }
+
+  @media #{$mat-gt-xs} {
+
+    .card--content {
+      min-height: 6rem; /* less min-height for bigger viewports */
+    }
+  
+  }
+
+  .card--header {
+    grid-area: header;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin: 20px 25px 0;
+  }
+
+  .card--footer {
+    display: grid;
+    gap: 16px;
+    grid-area: footer;
+    margin: 0 25px 40px;
+  }
+
+  @media #{$mat-gt-xs} {
+
+    .card--footer {
+      grid-template-columns: 1fr 1fr 1fr; /* three column grid for button on bigger viewports */
+      grid-column-gap: 5px;
+    }
+
+    .card--footer .skip {
+      grid-column-start: 3; /* change starting position of skip link */
+    }
+
+  }
+
+  .card--additional {
+    grid-area: additional;
+  }
+}

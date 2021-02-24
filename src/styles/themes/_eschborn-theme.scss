@@ -1,0 +1,147 @@
+$eschborn-pink: (
+  50 : #fde6ec,
+  100 : #f9c0cf,
+  200 : #f596af,
+  300 : #f16b8f,
+  400 : #ee4c77,
+  500 : #eb2c5f,
+  600 : #e92757,
+  700 : #e5214d,
+  800 : #e21b43,
+  900 : #dd1032,
+  A100 : #ffffff,
+  A200 : #ffd7dc,
+  A400 : #ffa4b0,
+  A700 : #ff8b9a,
+  contrast: (
+      50 : #000000,
+      100 : #000000,
+      200 : #000000,
+      300 : #000000,
+      400 : #000000,
+      500 : #ffffff,
+      600 : #ffffff,
+      700 : #ffffff,
+      800 : #ffffff,
+      900 : #ffffff,
+      A100 : #000000,
+      A200 : #000000,
+      A400 : #000000,
+      A700 : #000000,
+  )
+);
+
+$eschborn-orange: (
+  50 : #fbf2e5,
+  100 : #f4debf,
+  200 : #edc894,
+  300 : #e6b169,
+  400 : #e0a148,
+  500 : #db9028,
+  600 : #d78824,
+  700 : #d27d1e,
+  800 : #cd7318,
+  900 : #c4610f,
+  A100 : #fff7f1,
+  A200 : #ffd9be,
+  A400 : #ffbb8b,
+  A700 : #ffac72,
+  contrast: (
+    50 : #000,
+    100 : #000,
+    200 : #000,
+    300 : #000,
+    400 : #000,
+    500 : #ffffff,
+    600 : #ffffff,
+    700 : #ffffff,
+    800 : #ffffff,
+    900 : #ffffff,
+    A100 : #000,
+    A200 : #000,
+    A400 : #000,
+    A700 : #000,
+  )
+);
+
+@mixin set-vars($theme) {
+  $primary: map-get($theme, primary);
+  $secondary: map-get($theme, accent);
+
+  // Primary
+  --clr-primary-50: #{mat-color($primary, 50)};
+  --clr-primary-50-contrast: #{mat-contrast($primary, 50)};
+  --clr-primary-100: #{mat-color($primary, 100)};
+  --clr-primary-100-contrast: #{mat-contrast($primary, 100)};
+  --clr-primary-300: #{mat-color($primary, 300)};
+  --clr-primary-300-contrast: #{mat-contrast($primary, 300)};
+  --clr-primary: #{mat-color($primary, 500)};
+  --clr-primary-contrast: #{mat-contrast($primary, 500)};
+  --clr-primary-p1: #{mat-color($primary, 900)};
+  --clr-primary-p1-contrast: #{mat-contrast($primary, 900)};
+
+  // Secondary
+  --clr-secondary-50: #{mat-color($secondary, 50)};
+  --clr-secondary-50-contrast: #{mat-contrast($secondary, 300)};
+  --clr-secondary-100: #{mat-color($secondary, 100)};
+  --clr-secondary-100-contrast: #{mat-contrast($secondary, 100)};
+  --clr-secondary-300: #{mat-color($secondary, 300)};
+  --clr-secondary-300-contrast: #{mat-contrast($secondary, 300)};
+  --clr-secondary: #{mat-color($secondary, 500)};
+  --clr-secondary-contrast: #{mat-contrast($secondary, 500)};
+  --clr-secondary-p1: #{mat-color($secondary, 900)};
+  --clr-secondary-p1-contrast: #{mat-contrast($secondary, 900)};
+
+  // Neutral
+  --clr-neutral-0dp: #F9F9F9;
+  --clr-neutral-1dp: #EDEDED;
+  --clr-neutral-2dp: #E9E9E9;
+  --clr-neutral-3dp: #E6E6E6;
+  --clr-neutral-4dp: #E4E4E4;
+  --clr-neutral-6dp: #DFDFDF;
+  --clr-neutral-8dp: #DCDCDC;
+  --clr-neutral-12dp: #D7D7D7;
+  --clr-neutral-16dp: #D5D5D5;
+  --clr-neutral-24dp: #D2D2D2;
+  --clr-neutral-white: #FAFAFA;
+
+  // Denotive
+  --clr-error-50: #fff3ed;
+  --clr-error-100: #ffe0d1;
+  --clr-error-300: #ffb894;
+  --clr-error: #ff9966;
+  --clr-error-contrast: #FFFFFF;
+
+  --clr-warn: #ffcc00;
+  --clr-warn-contrast: #FFFFFF;
+
+  --clr-success-50: #f3f9e7;
+  --clr-success-100: #e0f0c2;
+  --clr-success-300: #b8db70;
+  --clr-success: #99cc33;
+  --clr-success-contrast: #FFFFFF;
+
+  --clr-info: #0DBCE7;
+  --clr-info-contrast: #FFFFFF;
+}
+
+$primary: mat-palette($eschborn-pink);
+$secondary: mat-palette($eschborn-orange);
+
+$eschborn-light-theme: mat-light-theme($primary, $secondary);
+
+$eschborn-light-background: map-get($eschborn-light-theme, background);
+$eschborn-light-background: map_merge($eschborn-light-background, (background: var(--clr-neutral-0dp)));
+
+$eschborn-light-theme: map_merge($eschborn-light-theme, (background: $eschborn-light-background));
+
+// Makes the splash screen work at a root level
+:root {
+  --clr-neutral-m4: #F4F5F7;
+  --clr-secondary: #000;
+}
+
+.eschborn-light-theme {
+  @include set-vars($eschborn-light-theme);
+  @include angular-material-theme($eschborn-light-theme);
+}

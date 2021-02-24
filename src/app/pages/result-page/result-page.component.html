@@ -1,0 +1,24 @@
+<h1>Dein Eschomat-Ergebnis</h1>
+<pre>
+  Wir freuen uns, dass du den Eschomat genutzt hast. 🥳 Hohe Übereinstimmungen deiner Antworten mit mehreren Parteien bedeuten nicht zwangsläufig eine inhaltliche Nähe dieser Parteien zueinander. Wir empfehlen dir die verlinkten Wahlprogramme anzuschauen, bevor du eine finale Wahlentscheidung triffst.
+</pre>
+<section class="card" *ngFor="let party of result | keyvalue | sortBy: 'value':'desc'" [class]="party.key">
+  <section class="card--image" *ngIf="config.parties[party.key]?.logo">
+    <img width="220" height="220" [src]="config.parties[party.key]?.logo">
+  </section>
+  <h2 class="card--header">{{ party.key }} </h2>
+  <section class="card--content">
+    <pre>{{ config.parties[party.key]?.description }}</pre>
+    <a class="manifesto" *ngIf="config.parties[party.key]?.manifesto" [href]="config.parties[party.key]?.manifesto"
+      target="_blank" rel="noopener">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <path d="M0 0h24v24H0z" fill="none" />
+        <path
+          d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z" fill="currentColor" />
+        </svg>&nbsp;zum Wahlprogramm</a>
+  </section>
+  <footer class="card--footer">
+    <mat-progress-bar [value]="100 / possible * (party.value || 0)"></mat-progress-bar>
+    <span class="progresss-label">{{ 100 / possible * (party.value || 0) | number: '1.0-0' }}%</span>
+  </footer>
+</section>

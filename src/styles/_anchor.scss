@@ -1,0 +1,15 @@
+a {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.87);
+  color: rgba(0, 0, 0, .87);
+  font-weight: 400;
+  text-decoration: none;
+  transition: all .075s ease-in-out;
+
+  &.active,
+  &:hover {
+    /* border-bottom: 1px solid var(--clr-primary); */  
+    border-color: var(--clr-primary);
+    color: var(--clr-primary);
+    transition: all .075s ease-in-out;
+  }
+}

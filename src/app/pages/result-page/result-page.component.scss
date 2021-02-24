@@ -1,0 +1,83 @@
+:host {
+  display: grid;
+  gap: 20px;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.card {
+  gap: 0 25px;
+  grid-template-rows: repeat(3, auto);
+  grid-template-columns: minmax(100px, 1fr) 3fr;
+  grid-template-areas:
+    "image header"
+    "image content"
+    "footer footer";
+  max-width: 100%;
+
+  .card--header {
+    margin: 0 25px 0 0;
+    line-height: 2.75rem;
+  }
+
+  .card--content {
+    margin: 0 25px 10px 0;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: 1fr auto;
+    grid-template-areas:
+      "description description"
+      "none manifesto";
+
+    pre {
+      grid-area: description;
+    }
+
+    .manifesto {
+      grid-area: manifesto;
+
+      svg {
+        height: 1.1875rem;
+        vertical-align: middle;
+      }
+    }
+  }
+
+  .card--image img {
+    object-fit: contain;
+    display: inherit;
+  }
+
+  .card--footer {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+    .mat-progress-bar {
+      height: 2rem;
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      width: auto;
+    }
+
+    .progresss-label {
+      color: var(--clr-primary-contrast);
+      position: absolute;
+      left: 20px;
+      line-height: 2rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+  }
+}
+
+pre {
+  font-size: .875rem;
+  line-height: 1.5;
+  margin-top: 8px;
+}

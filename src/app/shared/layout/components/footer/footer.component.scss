@@ -1,0 +1,25 @@
+@import '../../../../../styles/breakpoints';
+
+:host {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr repeat(2, auto);
+  padding: 15px var(--content-padding);
+
+  @media #{$mat-xs} {
+    grid-template-columns: auto;
+    grid-template-rows: repeat(3, auto);
+    justify-items: center;
+    gap: 10px;
+  }
+}
+
+a {
+  font-weight: 400;
+  font-size: .875rem;
+
+  @media #{$mat-gt-xs} {
+    display: flex;
+    justify-self: left;
+  }
+}

@@ -1,0 +1,52 @@
+<ng-container *ngIf="index$ | async as index; else notFound">
+  <ng-container *ngIf="thesis$ | async as thesis; else notFound">
+    <section class="card">
+      <section class="card--image">
+        <picture>
+          <source [srcset]="thesis.image.desktop" media="(min-width: 800px)"/>
+          <img [src]="thesis.image.mobile" [alt]="thesis.image.alttext" width="450" height="253">
+        </picture>
+      </section>
+      <h2 class="card--header"><span class="count">{{ index }}/{{ config.theses.length }}</span> {{ thesis.category }}</h2>
+      <pre class="card--content">{{ thesis.thesis }}</pre>
+      <footer class="card--footer">
+        <a class="skip" [routerLink]="skipUrl$ | async">These überspringen
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M0 0h24v24H0z" fill="none" />
+            <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" fill="currentColor" />
+          </svg>
+        </a>
+        <button class="btn success" (click)="answer(index, 'agree')">stimme zu</button>
+        <button class="btn" (click)="answer(index, 'neutral')">neutral</button>
+        <button class="btn error" (click)="answer(index, 'disagree')">stimme nicht zu</button>
+      </footer>
+      <section class="card--additional">
+        <mat-expansion-panel *ngIf="thesis.description">
+          <mat-expansion-panel-header>Weitere Informationen</mat-expansion-panel-header>
+          <mat-panel-description>
+            <pre [innerHtml]="thesis.description | safe: 'html'"></pre>
+          </mat-panel-description>
+        </mat-expansion-panel>
+        <mat-expansion-panel>
+          <mat-expansion-panel-header>Was sagen die Parteien dazu?</mat-expansion-panel-header>
+          <mat-panel-description>
+            <ng-container *ngFor="let obj of thesis?.evaluation  | keyvalue">
+              <ng-container *ngIf="obj.value?.statement">
+                <b>{{ obj.key }}</b>
+                <pre [innerHtml]="obj.value.statement | safe: 'html'"></pre>
+              </ng-container>
+            </ng-container>
+          </mat-panel-description>
+        </mat-expansion-panel>
+      </section>
+    </section>
+    <section class="dots">
+      <a [routerLink]="'/thesen/' + (i + 1)" #dot class="dot" routerLinkActive="active"
+        *ngFor="let t of config.theses; let i = index"></a>
+    </section>
+  </ng-container>
+</ng-container>
+
+<ng-template #notFound>
+  <p>Hoppla, diese These konnte nicht gefunden werden.</p>
+</ng-template>

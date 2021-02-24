@@ -1,0 +1,1180 @@
+{
+  "logo": "/assets/logo.svg",
+  "welcome_text": "<p><strong>Herzlich willkommen beim Eschomat! 👋 </strong></p><p>Wir möchten dir und allen Bürger*innen Eschborns, insbesondere den Jung- und Erstwähler*innen, eine Anlaufstelle für die Kommunalwahl am 14. März 2021 bieten.</p><p>Verschaffe dir mit dem Eschomat in wenigen Minuten einen  Eindruck, welche Parteien deine Interessen vertreten.</p><p>Anschließend empfehlen wir dir einen Blick in <a href=\"faq\" target=\"_blank\" rel=\"noopener\">die Wahlprogramme 📚 der Parteien</a> zu werfen, weil der Eschomat natürlich nicht allen Ideen der Parteien gerecht werden kann.</p><p>Aber nun erstmal viel Spaß mit dem Eschomat! 👍</p>",
+  "parties": {
+    "CDU": {
+        "description": "Die CDU ist eine durch die christlichen Werte geprägte bürgerliche Volkspartei der Mitte, die das Liberale, Konservative und Christlich-Soziale miteinander verbindet.",
+        "name": "Christlich Demokratische Union",
+        "logo": "/assets/logos_parties/cdu.svg",
+        "manifesto": "https://cdueschborn.de/kommunalwahl2021-programm.html"
+    },
+    "Grüne": {
+      "description": "Die GRÜNEN orientieren sich an den Themen Umweltschutz, Bürger- und Menschenrechte, Gleichstellung sowie Demokratisierung der Gesellschaft.",
+      "logo": "/assets/logos_parties/gruene.svg",
+      "manifesto": "https://www.grueneeschborn.de/wp-content/uploads/2020/12/Programm_Eschborn-2021-2026.pdf"
+    },
+    "SPD": {
+      "description": "Die SPD stützt sich auf die Grundwerte Freiheit, Gerechtigkeit und Solidarität.",
+      "logo": "/assets/logos_parties/spd.svg",
+      "manifesto": "https://www.spd-eschborn.de/wp-content/uploads/sites/1032/2021/01/21-03-14-spd-eschborn-wahlprogramm-web.pdf"
+    },
+    "FDP": {
+      "description": "Freiheit vor Gleicheit, Schutz der Grundrechte, Verteidigung der sozialen Marktwirtschaft, generationengerechtes Haushalten, beste Bildung und vorankommen durch eigene Leistung sind u.a. zentrale Motive der Freien Demokraten.",
+      "logo": "/assets/logos_parties/fdp.svg",
+      "manifesto": "https://fdp-eschborn.de/wp-content/uploads/2021/02/Wahlprogramm-2021-2026.pdf"
+    },
+    "FWE": {
+      "description": "Die FWE ist eine unabhängige Wählergemeinschaft, die 2011 von Eschborner und Niederhöchstädter  Bürgerinnen und Bürgern gegründet wurde und seitdem im Stadtparlament vertreten ist. Die FWE setzt sich ausschließlich für Eschborner Themen ein.",
+      "logo": "/assets/logos_parties/fwe.svg",
+      "manifesto": "https://fweschborn.de/wp-content/uploads/2021/01/wahlprogramm-fwe-2021-2.pdf"
+    },
+    "Linke": {
+      "description": "DIE LINKE tritt für einen demokratischen Sozialismus und einen umfassenden Ausbau des Sozialstaates ein.",
+      "logo": "/assets/logos_parties/linke.svg",
+      "manifesto": "/assets/manifestos/Die_Linke_Wahlprogramm_2021_Eschborn.pdf"
+    }
+  },
+  "faq": [{
+    "question": "Was ist das Ziel des Eschomat?",
+    "answer": "Der Eschomat soll vor allem Jung- und Erstwähler*Innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Wenn er dann noch das Interesse an den Kommunalwahlen erhöht, sind wir sehr glücklich."
+  }, {
+    "question": "Wer seid ihr und warum macht ihr das?",
+    "answer": "Das Projekt wird von Stefan Eckner und Markus Kollers umgesetzt. Wir sind in Eschborn groß geworden und sowohl privat als auch beruflich begeistert von der digitalen Welt. Unser Antrieb ist unsere Heimatstadt digitaler aufzustellen und das Interesse für die Kommunalwahlen zu stärken."
+  }, {
+    "question": "Soll ich mich bei der Wahl am Eschomat orientieren?",
+    "answer": "Nein, bitte nicht. Dein Ergebnis beim Eschomat wird sicherlich Tendenzen aufzeigen, aber wir empfehlen dir einen Blick in die Wahlprogramme der Parteien zu werfen. Schließlich kann der Eschomat mit seinen Thesen nur einen Bruchteil der politischen Ideen abdecken. Zudem solltest du daran denken, dass bei der Kommunalwahl durch das Kumulieren und Panaschieren mit der Personalwahl eine persönliche Ebene hinzukommt, die der Eschomat nicht ansatzweise abbilden kann."
+  }, {
+    "question": "Wo finde ich die Wahlprogramme?",
+    "answer": "Natürlich hier bei uns. 👉 <a href=\"https://cdueschborn.de/kommunalwahl2021-programm.html\" target=\"_blank\" rel=\"noopener\">CDU</a>, <a href=\"https://fdp-eschborn.de/wp-content/uploads/2021/02/Wahlprogramm-2021-2026.pdf\" target=\"_blank\" rel=\"noopener\">FDP</a>, <a href=\"https://fweschborn.de/wp-content/uploads/2021/01/wahlprogramm-fwe-2021-2.pdf\" target=\"_blank\" rel=\"noopener\">FWE</a>, <a href=\"https://www.grueneeschborn.de/wp-content/uploads/2020/12/Programm_Eschborn-2021-2026.pdf\" target=\"_blank\" rel=\"noopener\">Grüne</a>, <a href=\"/assets/manifestos/Die_Linke_Wahlprogramm_2021_Eschborn.pdf\" target=\"_blank\" rel=\"noopener\">Linke</a>, <a href=\"https://www.spd-eschborn.de/wp-content/uploads/sites/1032/2021/01/21-03-14-spd-eschborn-wahlprogramm-web.pdf\" target=\"_blank\" rel=\"noopener\">SPD</a> (alphabetisch sortiert)."
+  }, {
+    "question": "Ich kenne mich nicht so gut in Eschborn aus. Wo befinden sich die besprochen Themen?",
+    "answer": "Für diesen Zweck haben wir <a href=\"https://www.google.com/maps/d/u/2/edit?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&usp=sharing\" target=\"_blank\" rel=\"noopener\">eine Karte 🗺️ erstellt</a>, auf der die prägnantesten Orte des Eschomat festgehalten sind."
+  }, {
+    "question": "Kumulieren und Panaschieren - was ist das?",
+    "answer": "Wer das erste Mal den Wahlzettel sieht, wird wohl etwas verwundert sein. Schließlich geht es hier nicht nur darum ein Kreuz zu setzen, um eine Partei oder eine Person zu wählen, sondern es bieten sich eine Vielzahl an Möglichkeiten. Dieses <a href=\"https://www.youtube.com/watch?v=gDEyqlw38aY\" target=\"_blank\" rel=\"noopener\">YouTube-Video der Regierung Hessen</a> erklärt in rund drei Minuten die Grundlagen."
+  }, {
+    "question": "Welche Daten speichert ihr von mir?",
+    "answer": "Das Thema Datenschutz liegt uns wirklich am Herzen, und daher war es uns wichtig so wenige Daten zu erfassen wie irgendwie möglich. Alle Nutzereingaben werden prinzipiell nur lokal gespeichert, das heißt wir erfahren nicht, welche Angaben die Nutzer*innen machen. Nach einmaligen Laden könnte die Anwendung zu 100% offline verwendet werden.\n\n"
+  }],
+  "theses": [{
+    "image": {
+      "desktop": "/assets/header/5g_desktop.jpg",
+      "mobile": "/assets/header/5g_mobile.jpg",
+      "alttext": "Mobilfunkantenne auf einem Dach an der Hauptstraße"
+    },
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "description": "Die Bezeichnung 5G steht für einen neuen Standard für die mobile Datenübertragung. Der Standard ist der Nachfolger von 4G / LTE und bietet dem gegenüber höhere Übertragungsgeschwindkeiten. Umstritten ist der Einfluss auf die Gesundheit des Menschen.\nℹ️ <a href=\"https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/was-ist-5g-vorteile-und-risiken-der-5-generation-mobilfunk-52004\" target=\"_blank\" rel=\"noopener\">Weitere Informationen von der „Verbraucherzentrale“</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Im Einklang mit dem in der Erstellung befindlichen Mobilfunkkonzept gilt: Eine zukunftssichere und leistungsfähige Netzabdeckung ist eine wichtige Infrastrukturvoraussetzung für wirtschaftlichen Erfolg sowie Wohn- und Lebensqualität."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir wollen die digitale Infrastruktur in Eschborn zukunftsfähig machen. Dazu gehört neben einem flächendeckenden Glasfaserausbau auch das 5G-Mobilfunknetz."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Für die SPD ist neben dem Glasfaserausbau in Eschborn auch 5G ein wichtiger Bestandteil für die Digitalisierung in Eschborn. Nur wenn alle Bürger wie auch Firmen schnellen Zugang ins Internet haben, sind wir für die Zukunft gewappnet."
+      },
+      "Linke": {
+        "position": "neutral",
+        "statement": "Wir halten den Ausbau des 5G-Netzes zwar für wichtig sowohl für die örtlichen Unternehmen als auch alle Einwohner*innen Eschborns, betrachten das aber eher als eine Aufgabe der Telekommunikationsunternehmen und ggf. des Bundes und weniger als kommunale Aufgabe."
+      },
+      "FWE": {
+        "position": "disagree",
+        "statement": "5G ist eine wichtige, aber auch eine relativ neue Technologie. Deshalb vertritt die FWE den Standpunkt, dass nicht die Schnelligkeit des Ausbaus eines 5G-Netzes an erster Stelle stehen sollte, sondern der Ausbau im Rahmen eines mit fachlicher Unterstützung erstellten Mobilfunkkonzeptes für unsere Stadt. Zahlreiche Bürgerinitiativen, aber auch Gemeinden und Großstädte, fordern bereits seit Monaten ein Moratorium, bis die Fragen zur Gesundheits-und Umweltsicherheit von der Forschung geklärt werden. Dies zeigt deutlich, dass auch in Eschborn der Einsatz von 5G wohlüberlegt sein und nicht allein den Mobilfunkbetreibern überlassen werden sollte. Neue Technologien sind wichtig und zukunftsorientiert, dennoch sollte gerade bei wenig bis nicht getesteten Neuheiten der Gesundheits-und Vorsorgeaspekt nicht außer Acht gelassen werden. Daher setzt sich die FWE für ein ausgewogenes, nach dem Vorsorgeprinzip ausgearbeitetes Mobilfunkkonzept ein, das auch bei 5G das Wohl der Bürger in den Mittelpunkt stellt. "
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/bezahlbarer_wohnraum_desktop.jpg",
+      "mobile": "/assets/header/bezahlbarer_wohnraum_mobile.jpg",
+      "alttext": "Baustelle der Eschborner Wohnungsbaugesellschaft"
+    },
+    "category": "Bezahlbarer Wohnraum",
+    "thesis": "Die Stadt Eschborn soll verstärkt Wohnraum für Menschen mit niedrigem Haushaltseinkommen schaffen.",
+    "description": "Es geht hierbei nicht ausschließlich um den Bau von Sozialwohnungen, sondern zusätzlich bezahlbaren Wohnraum für Menschen zu schaffen die keinen Anspruch auf eine Sozialwohnung haben.",
+    "evaluation": {
+      "CDU": {
+        "position": "neutral",
+        "statement": "Unser Ziel ist Wohnraum für alle Bedarfe zu schaffen. Derzeit werden vor allem in Niederhöchstadt 57 reine Sozialwohnungen errichtet. Deshalb erachten wir es für wichtig, dass im nächsten Schritt auch an den Mittelstand und junge Familien gedacht wird, die sich bei der derzeitigen Preislage oftmals schwer vor Ort eine Wohnung leisten können. Dabei ist für uns der Begriff Wohneigentum auch kein Fremdwort."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Guter bezahlbarer Wohnraum für alle ist eine öffentliche Aufgabe. Wir GRÜNEN wollen, dass Eschborn seine finanziellen Möglichkeiten mehr nutzt, damit Menschen mit niedrigem und mittlerem Einkommen eine angemessene bezahlbare Wohnung finden."
+      },
+      "FDP": {
+        "position": "disagree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Das durch die hohen Mieten verursachte Verdrängen von Auszubildenden, Berufsanfängern, jungen Familien wie auch Senioren aus Eschborn muss ein Ende haben. Daher brauchen wir bezahlbaren Wohnraum in Eschborn. Diesen kann nach Ansicht der SPD nur die Stadt garantieren, da die Investoren aus der Privatwirtschaft in Eschborn in den letzten Jahren zur Gewinnmaximierung nur noch hochpreisig gebaut haben."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Wohnen in Eschborn ist attraktiv, nicht zuletzt auch für die rund vierzigtausend Menschen nebst Familie, die in Eschborn ihren Arbeitsplatz haben. Dies treibt Mieten und Grundstückspreise in die Höhe. „Normal-“ und Geringverdienende oder auch alleinerziehende Mütter und Väter bleiben da oftmals auf der Strecke. Deshalb muss mit öffentlich gefördertem Wohnungsbau, ohne Befristung und direkt durch die Stadt Eschborn oder die GWE hier unbedingt ein Ausgleich geschaffen werden."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Aus Sicht der FWE gehört es zu den Kernaufgaben einer Kommune,  auch für einkommensschwächere Mitbürgerinnen und Mitbürger adäquaten Wohnraum zu schaffen. Aus diesem Grund wird sich die FWE auch in der nächsten Wahlperiode für die Schaffung von Wohnraum für alle, insbesondere auch für den Bau von souila gefördertem Wohnraum einsetzen. Im letzten Jahr wurde bereits mit Unterstützung der FWE der Bau von 48 Sozialwohnungen im Stadtgebiet beschlossen. Auch und gerade beim Bau von städtischem Wohnraum sollen die Ideen und Forderungen der FWE zu Klimaschutz und kommunaler Wärmeplanung berücksichtigt werden."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/buergerhaushalt_desktop.jpg",
+      "mobile": "/assets/header/buergerhaushalt_mobile.jpg",
+      "alttext": "Gruppe vom Menschen beim Diskutieren"
+    },
+    "category": "Bürgerhaushalt",
+    "thesis": "Es soll ein Bürgerhaushalt nach dem Darmstädter Modell ermöglicht werden.",
+    "description": "Das Darmstädter Modell ermöglicht Bürger*innen online und offline den kommunalen Haushalt mitzugestalten.",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Ein Bürgerhaushalt im Sinne eines Bürgerbudgets halten wir für eine gute Maßnahme, um ehrenamtliche Initiativen und Jugendprojekte gezielt fördern zu können. Dies entspricht dem Projektteil „Unser Projekt für die Stadt“ aus Darmstadt."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "Am 01. Oktober 2020 wurde auch mit den Stimmen der Eschborner GRÜNEN der erste Eschborner Bürgerhaushalt auf den Weg gebracht. Der Darmstädter Bürgerhaushalt diente dabei als Vorlage."
+      },
+      "FDP": {
+        "position": "disagree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Auch die Mitglieder der SPD sind Bürger:innen dieser Stadt und wir wünschen uns die Beteiligung vieler Menschen an politischen Entscheidungen. Aktive Kommunalpolitik wie der Bürgerhaushalt ist praktische Demokratie. Nur durch aktive Teilhabe der Bürger kann Vertrauen in die Politik hergestellt werden. Nur ein Bürgerhaushalt, der den Bürgern auch die Möglichkeit gibt, Projekte anderes zu Priorisieren, ist ein wirklicher Bürgerhaushalt. Der aktuell verabschiedete umfaßt diese Möglichkeiten nicht und sollte daher nach dem Darmstädter Modell erweitert werden."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Ein Bürgerhaushalt soll den Menschen in der Stadt mehr demokratische Teilhabe an wichtigen Entscheidungen ermöglichen. DIE LINKE. Eschborn hat entsprechende Überlegungen seit 2006 immer wieder auch für Eschborn gefordert. Mit dem Darmstädter Modell liegt seit kurzem ein Konzept vor, das praktikabel und bürgernah durchführbar ist. Dies möchten wir auch für Eschborn erreichen."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Es ist für eine Gemeinde wichtig, dass sich Bürgerinnen und Bürger ehrenamtlich engagieren. Die FWE möchte dieses Engagement weiter stärken und sieht dafür mehrere Möglichkeiten. Zum einen befürworten wir die Schaffung eines Bürgerhaushalts nach dem Modell der Stadt Darmstadt. Das Projekt „Bürgerhaushalt 2.0“ ermöglicht es den Bürgerinnen und Bürgern, konkrete Vorschläge für die Politik abzugeben oder finanzielle Unterstützung für bestimmte Projekte zu beantragen. Somit wird die Bevölkerung motiviert, sich weiterhin und aktiv einzubringen, sei es auf kommunalpolitischer oder sozialer Ebene. "
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/bus_desktop.jpg",
+      "mobile": "/assets/header/bus_mobile.jpg",
+      "alttext": "Bushaltestelle an der Sossenheimer Str."
+    },
+    "category": "E-Stadtbus",
+    "thesis": "Ein E-Stadtbus soll die Stadtteile besser verbinden.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "neutral",
+        "statement": "Nachdem bereits ein Stadtbus-Projekt in der Vergangenheit in Eschborn mangels Nachfrage gescheitert ist, halten wir es für sinnvoll, auf innovativere Konzepte zu setzen. So wird derzeit ein „Autonomer E-Bus“ für die Anbindung des Helfmann-Parks an den Bahnhof Eschborn Süd geprüft. Ebenfalls vorstellen können wir uns ein „On-demand“ Stadtbus-Projekt."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir GRÜNE wollen die E-Mobilität in Eschborn voranbringen und auch einen E-Shuttle-Bus Eschborn einsetzen. "
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": "Die FDP unterstützt die Einrichtung eines kostenlosen Stadtbusses. Die E-Mobilität ist jedoch nicht die richtige Wahl, wie zuletzt auch in Berlin deutlich wurde: Bei Kälte versagten die Akkus schon nach kurzer Zeit und viele Linien fielen aus."
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Mit dem E-Stadtbus werden uns für eine Anpassung der Busfahrpläne stark machen, um einen schnellen Umstieg in die S-Bahn zu ermöglichen. Außerdem sollen Busse häufiger und länger verkehren. Dazu soll das Projekt „E-Stadtbus“ zügig umgesetzt werden."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Nicht nur die Stadtteile solllen besser verbunden werden, sondern generell die umweltfreundliche Mobilität innerhalb der Stadt und mit den Nachbargemeinden soll attraktiver werden - sei es zu Fuß, mit dem Fahrrad oder mit dem Bus. Innerstädtische Buslinien zum Nulltarif oder zu stark subventionierten Preisen sind dazu ein wichtiger Baustein. Diese Busse müssen selbstverständlich lokal emissionsfrei sein und folglich E-Antrieb haben. "
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Die FWE wird weiterhin darauf drängen, dass eine Stadtbuslinie schnellstmöglich eingerichtet wird. Der im Jahre 2019 von der FWE eingebrachte Antrag zur Einrichtung eines Stadtbusses soll beide Stadtteile besser miteinander verbinden. Aus Sicht der FWE ist es wichtig, dass der Seniorendezernent mit in die Planung einbezogen wird. Er kennt durch seine Tätigkeit die Probleme und Schwachstellen, die es zu beachten gilt, damit die Streckenführung alle relevante Anlaufstellen beinhaltet. Dabei wäre es zu begrüßen, wenn für den Stadtbus ein Bus mit elektrischem Antrieb angeschafft wird."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/ladestationen_desktop.jpg",
+      "mobile": "/assets/header/ladestationen_mobile.jpg",
+      "alttext": "Ladestation für Elektroautos in Unterortstraße"
+    },
+    "category": "Elektroauto-Ladestationen",
+    "thesis": "Die Stadt soll die Anzahl der Ladestationen für Elektroautos aktiv fördern.",
+    "description": "Aktuell befinden sich laut eschborn.de neun Ladestationen in Eschborn.\nWeitere Informationen finden Sie auf der <a href=\"https://www.eschborn.de/stadt-kultur-und-tourismusinformationen/klimaschutz-in-eschborn/elektromobilitaet/\" target=\"_blank\" rel=\"noopener\">Website der Stadt Eschborn</a>.",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Vor dem Hintergrund der steigenden Zulassungszahlen von E-Autos, ist es wichtig, die entsprechende Infrastruktur frühzeitig zu schaffen und auch überlegt in das bestehende Straßen- und Parkplatznetz zu integrieren."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir GRÜNE wollen den Fuhrpark der Eschborner Verwaltung klimaneutral umstellen und befürworten einen signifikanten Ausbau von mit Ökostrom betriebenen Ladestationen für E-Fahrzeuge an öffentlichen Plätzen"
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": "Die FDP unterstützt den Ausbau von Ladestationen, allerdings sollen diese kostenpflichtig sein. "
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Viele Bürger werden noch durch die wenigen Möglichkeiten E-Autos aufzuladen vom Kauf eines E-Autos abgehalten. Deshalb  wollen wir die E-Mobilität fördern und die Anzahl an Ladestationen für Elektrofahrzeuge und Elektrofahrräder im Stadtgebiet drastisch erhöhen."
+      },
+      "Linke": {
+        "position": "neutral",
+        "statement": "Genausowenig wie die Stadt in der Vergangenheit eigene Tankstellen gebaut hat, ist es auch nicht zwingend eine Aufgabe der Stadt, Ladestationen für E-Autos zu bauen. Dies sollten die Stromanbieter und/oder die Autoindustrie vorrangig selbst übernehmen. Wichtig ist aber, dass die Stadt die Voraussetzungen dafür verbessert und nicht Obstruktionspolitik betreibt (zum Beispiel indem sie regelmäßig eine der wenigen Ladesäulen in Eschborn für die Sammlung von „Kleinelektroschrott“ sperrt)."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Die Infrastruktur wird bereits aktiv durch Bundeszuschüsse (KfW) und durch die Stadt gefördert. Die Planung von E-Schnellladestationen sowie Wasserstoff-Fuels gehören mit in die Planung eines Verkehrskonzeptes für Eschborn, für das sich die FWE weiterhin einsetzt. Die Stadt Eschborn biete bereits verschiedene Förderungsmöglichkeiten an, die ab dem 1. Januar 2021 ausgeweitetete Förderungen für Solarstrom-Dachanlagen und erstmals auch für Stecker-Solarstrom-Anlagen (zB für Balkone), Stromspeicher und Ladestationen (Wallboxen) enthält. Die Stadt errichtet außerdem derzeit öffentliche Ladestationen im Stadtbereich. Ein Ausbau dieser Ladestatinen wird von der FWE befürwortet."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/fahrradweg_niederhoechstadt_desktop.jpg",
+      "mobile": "/assets/header/fahrradweg_niederhoechstadt_mobile.jpg",
+      "alttext": "Feldweg Richtung Niederhöchstadt mit Altkönig im Hintergrund"
+    },
+    "category": "Fahrradweg Dörnweg",
+    "thesis": "Der verlängerte Dörnweg zwischen Eschborn und Niederhöchstadt soll zu einem Radweg  mit eigenen Spuren für Radfahrer*innen und Fußgänger*innen umgebaut werden.",
+    "description": "Der verlängerte Dörnweg ist ein Feldweg, der die beiden Stadtteile verbindet und neben Landwirten und Spaziergängern auch von Schüler*innen aus Niederhöchstadt als Radweg zur Heinrich von Kleist-Schule genutzt wird.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1YiNuFaEkYRUEB2dLNCULHBuPDWdREQa9&ll=50.153362841727585%2C8.561633142070182&z=16\" target=\"_blank\" rel=\"noopener\">Standort des verlängerten Dörnwegs zwischen Eschborn und Niederhöchstadt</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "disagree",
+        "statement": "Der verlängerte Dörnweg ist, neben den genannten Funktionen, auch ein landwirtschaftlich genutzter Weg. Unserer Ansicht nach machen baulich getrennte Radwege vor allem bei den Radschnellwegen, die überörtlich verlaufen, Sinn."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "Wir GRÜNE halten eine Verbreiterung des verlängerten Dörnwegs für falsch. Alle Nutzer:innen müssen aufeinander Rücksicht nehmen. Wichtiger ist uns die Realisierung der Radwege nach Steinbach, Sossenheim und Schwalbach."
+      },
+      "FDP": {
+        "position": "disagree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Für uns ist das Fahrrad als Altenative zum Auto wichtig. Als erstes Projekt soll dazu der verlängerte Dörnweg zwischen Eschborn und Niederhöchstadt von einem Feldweg zu einem Fahrrad und Fußgängerweg aufgewertet werden, um Fahrradfahrern aber auch Fußgängern die besten Möglichkeiten zu bieten in die beiden Stadteile zu gelangen."
+      },
+      "Linke": {
+        "position": "disagree",
+        "statement": "Der verlängerte Dörnweg ist für alle da. Für Radfahrende und für Menschen zu Fuß oder für den landwirtschaftlichen Verkehr. Gegenseitige Rücksichtnahme sollte eine gemeinsame Nutzung dieses Wegs ermöglichen. Getrennte Spuren halten wir in diesem Fall für nicht sinnvoll."
+      },
+      "FWE": {
+        "position": "disagree",
+        "statement": "Die FWE unterstützt den Ausbau von Fahrradwegen in Eschborn und in der Umgebung. Beispielsweise wurde der Radweg nach Steinbach auf einen Antrag der FWE beschlossen Keine Notwendigkeit sehen wir jedoch im Ausbau des Rad-und Fußweges zwischen Eschborn und Niederhöchstadt. Die FWE möchte das Naherholungsgebiet weiterhin schützen und nicht durch eine Verbreiterung des Weges einschränken, zumal eine eigene Radspur sicherlich zu einer Zunahme der Geschwindigkeit der Radfahrer und damit auch zu einer Beeinträchtigung der Fußgänger führen wird."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/foerderung_frankfurt_desktop.jpg",
+      "mobile": "/assets/header/foerderung_frankfurt_mobile.jpg",
+      "alttext": "Skyline von Frankfurt"
+    },
+    "category": "Förderung Frankfurter Einrichtungen",
+    "thesis": "Eschborn soll in Zukunft keine Fördergelder mehr für Frankfurter Einrichtungen zur Verfügung stellen.",
+    "description": "Eschborn fördert seit mehreren Jahren Frankfurter Institutionen und Inititativen. Dazu gehörenz.B. das Städel, das Filmmuseuum, die Oper Frankfurt und das Radrennen „Eschborn-Frankfurt - der Radklassiker“.\nWeitere Informationen finden Sie auf der <a href=\"https://www.eschborn.de/rathaus/kultur-und-sportfoerderung/\" target=\"_blank\" rel=\"noopener\">Website der Stadt Eschborn</a>.",
+    "evaluation": {
+      "CDU": {
+        "position": "neutral",
+        "statement": "Wir plädieren für eine transparentere Mittelvergabe. Dazu gilt es, eine klare städtische Förderrichtlinie zu entwickeln, die Förderzweck und Antragsvoraussetzungen klar festlegt. Gefördert werden sollen unserer Ansicht nach ausschließlich Projekte mit Bezug zur Stadt Eschborn sowie Projekte der Jugendförderung."
+      },
+      "Grüne": {
+        "position": "disagree",
+        "statement": "Wir GRÜNE unterstützen die Förderung Frankfurter Kultureinrichtungen, die ihrerseits u.a. einen Beitrag zur kulturellen Bildung von Kindern, Jugendlichen und Erwachsenen in Eschborn leisten."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": "Solange die Stadt Frankfurt über die Stadt Eschborn hinweg die Josefstadt plant und sämtliche Einwände ignoriert, sollen die Mittel reduziert werden. Die eingesparten Mittel sollen dafür im Main-Taunus-Kreis gemeinnützigen Zwecken zu Gute kommen."
+      },
+      "SPD": {
+        "position": "disagree",
+        "statement": "Eschborn ist keine Insel und die Eschbornerinnen und Eschborner profitieren vielfach von der Kultur in Frankfurt. Da aufgrund von Corona auch die ganze Kunst- und Kulturbranche am Boden liegt, wäre es für viele Einrichtungen, die Eschborn aktuell unterstützt, das Einstellen der Förderungen der endgültige Todesstoß. Dementsprechend steht die SPD dahinter, den Frankfurter Kultureinrichtungen zu helfen. Dies steigert auch die Lebensqualität für die Eschborner."
+      },
+      "Linke": {
+        "position": "disagree",
+        "statement": "Eschborn bezieht seine Attraktivität nicht nur aus der guten Verkehrsanbindung und niedrigen Steuersätzen, sondern vor allem auch aus der Nähe zu Frankfurt und den dortigen Kultureinrichtungen, die auch von denjenigen sehr gerne genutzt werden, die in Eschborn leben und/oder arbeiten. Die Unterstützung für Frankfurter Kultureinrichtungen ist deshalb ein gebotener Akt der Solidarität und aus unserer Sicht auch im Eschborner Interesse dringend geboten ist."
+      },
+      "FWE": {
+        "position": "disagree",
+        "statement": "Die FWE befürwortet eine transparente Förderung kultureller Einrichtungen in Frankfurt und Umgebung. Viele Eschborner Bürgerinnen und Bürger nutzen die Angebote im Umland, so dass wir hier eine Verpflichtung zur Unterstützung sehen. Die  Verteilung einer festgesetzten Summe sollte nach bestimmten Kriterien und absoluter Transparenz erfolgen. Unter diesen Voraussetzungen unterstützen wir auch weiterhin die Förderung Frankfurter Kultureinrichtungen der Stadt Eschborn."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/gewerbesteuer_desktop.jpg",
+      "mobile": "/assets/header/gewerbesteuer_mobile.jpg",
+      "alttext": "Gewerbegebiet Süd"
+    },
+    "category": "Gewerbesteuer",
+    "thesis": "Der Gewerbesteuerhebesatz soll gesenkt werden, um die Stadt attraktiver für Unternehmen werden zu lassen.",
+    "description": "Die Gewerbesteuer ist eine wichtige Einnahmequelle für Kommunen. Über den Hebesatz können Kommunen Einfluss auf die Höhe der Gewerbesteuer nehmen. Der aktuelle Gewerbesteuerhebesatz der Stadt Eschborn befindet sich bei 330. Der Schnitt im Main-Taunus-Kreis liegt bei 357,3. Der Satz der Stadt Frankfurt liegt bei 460. Weitere Informationen erhalten Sie im <a href=\"https://www.gewerbesteuer.de/gewerbesteuerhebesatz/darmstadt\" target=\"_blank\" rel=\"noopener\">Gewerbesteuer Infoportal</a>.",
+    "evaluation": {
+      "CDU": {
+        "position": "disagree",
+        "statement": "Wir stehen für eine vernünftige, verlässliche und stabile Haushalts- und Steuerpolitik. Die bestehenden Hebesätze sollen deshalb beibehalten werden."
+      },
+      "Grüne": {
+        "position": "disagree",
+        "statement": "Wir GRÜNE wollen den Gewerbesteuerhebesatz in Eschborn konstant halten. Er ist jetzt schon einer der niedrigsten in ganz Hessen."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "disagree",
+        "statement": "Wir stehen für eine gute Zusammenarbeit der Stadt mit unseren Gewerbetreibenden. Wir wollen die Wirtschaftsförderung so weiterentwickeln, dass Unternehmen und ihre Beschäftigten sich in Eschborn wohlfühlen und dem Standort treu bleiben. Dazu gehört Planungssicherheit. Deshalb setzen wir uns dafür ein, die Gewerbesteuer langfristig auf dem jetzigen Niveau zu belassen. Allerdings sollten wir kein Gewerbesteuerdumping durch noch niedrigere Gewerbesteuer betreiben."
+      },
+      "Linke": {
+        "position": "disagree",
+        "statement": "Eschborn hat schon jetzt rund 40.000 Arbeitsplätze - bei vielleicht 8.000 Wohnungen. Noch mehr Firmen nach Eschborn zu locken, bringt noch mehr Verkehrschaos und noch mehr Druck auf Wohnungsmieten  und -preise. Außerdem ist das bereits jetzt praktizierte Eschborner Gewerbesteuerdumping höchst unsolidarisch gegenüber Nachbarkommunen. Wir fordern deshalb eine Anpassung des Gewerbesteuerhebesatzes auf den vom Land Hessen vorgegebenen Regelsatz von 357 Punkten."
+      },
+      "FWE": {
+        "position": "disagree",
+        "statement": "Die Gewerbesteuer in Eschborn ist mit 330 Punkten im Vergleich zu den umliegenden Gemeinden auf dem niedrigsten Niveau. Eine weitere Senkung wird von der FWE nicht angestrebt. "
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/gruenderstadt_desktop.jpg",
+      "mobile": "/assets/header/gruenderstadt_mobile.jpg",
+      "alttext": "Skulpur „Travel a Head“ am südlichen Ortseingang"
+    },
+    "category": "Gründerstadt",
+    "thesis": "Die Stadt Eschborn soll eine \"Gründerstadt\" werden, indem sie Startups unterstützt, z.B. durch entsprechende Räumlichkeiten oder Beratungsangebote.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Wirtschaftsförderung umfasst für uns gleichermaßen Einzelunternehmen, Handwerk, Großkonzerne, aber auch vor allem neue, innovative Unternehmungen. Wir wollen ein Start-Up-Zentrum etablieren und unsere Eschborner Start-Ups besser mit den ansässigen Unternehmen vernetzen."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir GRÜNE wollen Startups unterstützen, um kreativen und innovativen Menschen bessere Chancen zu geben und sie an Eschborn zu binden."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "neutral",
+        "statement": "Wie sie das bei anderen Wirtschaftsunternehmen auch seit Jahren erfolgreich betreibt, soll die Wirtschaftsförderung auch Startups unterstützen."
+      },
+      "Linke": {
+        "position": "disagree",
+        "statement": "Beratungsangebote für Gründer gibt es aktuell bereits von Kreis und Stadt, und das soll so auch fortgesetzt werden. Die Voraussetzungen für Gründer und Start-ups in Eschborn sind bereits jetzt gut; sie auf städtische Kosten zusätzlich zu subventionieren, ist weder erforderlich noch vertretbar."
+      },
+      "FWE": {
+        "position": "neutral",
+        "statement": "Die Wirtschaftsförderung der Stadt Eschborn ist bereits auf einem sehr hohen Niveau. Die Bezeichnung „Gründerstadt“ erscheint uns etwas hoch gegriffen, dennoch sollte die Ansiedlung junger, kreativer Betriebe und Startups durch die Stadt gefördert werden."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/heinrich_graf_sportanlage_desktop.jpg",
+      "mobile": "/assets/header/heinrich_graf_sportanlage_mobile.jpg",
+      "alttext": "Fußballfeld der Heinrich-Graf-Sportanlage"
+    },
+    "category": "Heinrich-Graf-Sportanlage",
+    "thesis": "Die Heinrich-Graf-Sportanlage soll umfassend modernisiert werden.",
+    "description": "Die Sportanlage befindet sich in Eschborn an den Straßen „Am Sportfeld“ und „Zeppelinstraße“ und beinhaltet unter anderem zwei Fußballplätze, eine 400m-Laufbahn und Gastronomie.\nZur Diskussion stehen u.a. die Modernisierung des bisherigen Standorts, als auch eine Verlegung Richtung Arboretum.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1RuwyC4vatGW4tW3d0bcBGhicyQ_MtGhL&ll=50.14025518633035%2C8.562026329678973&z=18\" target=\"_blank\" rel=\"noopener\">Link zur Karte</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Zeitgemäß und gut ausgestattete Sportanlagen sind die Grundvoraussetzung für den den Breiten- und Jugendsport. Die Heinrich-Graf-Sportanlage ist an vielen Stellen in die Jahre gekommen und sollte deshalb umfassend saniert und modernisiert werden."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "Wir GRÜNE setzen uns für attraktive Freizeit-, Sport- und Erholungsflächen ein, die fußläufig oder mit dem Rad gut erreichbar sind. "
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "neutral",
+        "statement": "Hier muss zunächst noch die Entscheidung getroffen werden, ob die Heinrich-Graf-Sportanlage am gleichen Platz im Wohngebiet bleiben soll, oder auf der anderen Seite der 3005 abseits der Bebauung neu errichtet wird. Daher ist die Frage nicht mit Ja oder Nein beantwortbar."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Alle Sportanlagen, die sowohl öffentlich als auch für die diversen Vereine zugänglich sind, sollen selbstverständlich auf modernem Stand gehalten werden. Kunstrasenplätze müssen auf ökologisch verträgliche Varianten umgestellt werden. Natürlich sollten die längst vorliegenden Pläne umgesetzt werden. Die von manchen stattdessen immer noch bevorzugte Verlegung Richtung Arboretum lehnen wir ab."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Die Erneuerung bzw. Sanierung der Heinrich-Graf-Sportanlage ist aus Sicht der FWE dringend erforderlich. Der 2013 gefasste Beschluss, eine Modernisierung vorzunehmen, muss dringend umgesetzt werden."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/hofreite_niederhoechstadt_desktop.jpg",
+      "mobile": "/assets/header/hofreite_niederhoechstadt_mobile.jpg",
+      "alttext": "Altes Gelände der Hofreite"
+    },
+    "category": "Hofreite",
+    "thesis": "Die Hofreite in Niederhöchstadt soll genutzt werden, um die U3- und Ü3-Betreuung langfristig sicherzustellen.",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1wEloOErL2guUdtdhmAoK07C7v5nNjpk8&ll=50.158879090589174%2C8.545885712387618&z=19\" target=\"_blank\" rel=\"noopener\">Standort der Hofreite</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Neben der bereits geplanten U3-Betreuung können wir uns, sofern es die Platzverhältnisse hergeben und der Betreuungsbedarf besteht, auch eine Ü3-Betreuung am besagten Standort vorstellen."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "Die U3-Betreuung wird in der Hofreite verwirklicht, für die Ü3-Betreuung fehlt in dem denkmalgeschützten Gebäude der Platz."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": "Die Hofreite soll und wird ausschließlich für U3-Betreuung genutzt. Allerdings soll in Niederhöchstadt nach Auffassung der FDP auch eine zusätzliche Kita für Ü3-Betreuung entstehen, um den gestiegenen Bedarf zu decken."
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Wir wollen Eschborner:innen darin unterstützen, Arbeit und Familie nach eigenen Wünschen gut zu organisieren. Deshalb setzen wir uns seit Jahren dafür ein, dass es für Eschborner Kinder in allen Altersgruppen ausreichend Betreuungsplätze gibt. Zu unseren nächsten Zielen gehören insbesondere neue Plätze in der Hofreite."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Die entsprechenden Planungen der GWE zum Ausbau der U3-Betreuung werden von uns unterstützt."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Das Kinderbetreuungsangebot für sämtliche Altersgruppen wird von der FWE unterstützt. Den Beschluss, in der Hofreite in Niederhöchstadt eine U3-Betreuung anzubieten, begrüßen wir sehr. Insbesondere durch die Nähe zum Niederhöchstädter Seniorenzentrum werden sicherlich Synergieeffekte für beide Nutzungen entstehen."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/hundesteuer_desktop.jpg",
+      "mobile": "/assets/header/hundesteuer_mobile.jpg",
+      "alttext": "Hund im Feld vor Frankfurter Skyline"
+    },
+    "category": "Hundesteuer",
+    "thesis": "Die 2020 neu eingeführte Hundesteuer soll grundsätzlich beibehalten werden.",
+    "description": "Weitere Informationen finden Sie auf der <a href=\"https://www.eschborn.de/rathaus/verwaltung/service-a-bis-z/service/eschborn/dienstleistung/153/\" target=\"_blank\" rel=\"noopener\">Website der Stadt Eschborn</a>.",
+    "evaluation": {
+      "CDU": {
+        "position": "disagree",
+        "statement": "Die Hundesteuer stellt eine Bagatellsteuer dar, die wir als solche ablehnen. Eine Zuordnung der Hunde zu ihrem Halter soll auch ohne Steuer gewährleistet werden."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "Wir GRÜNE wollen die Regelungen zur Hundesteuer überprüfen."
+      },
+      "FDP": {
+        "position": "disagree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Mit der Hundesteuer besteht ein Instrument, um die Zahl der gefährlichen Hunde zu ermitteln und ggf. Maßnahmen zu ergreifen."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Bei der Hundesteuer geht es nicht darum, Einnahmen für die Stadt zu erzeugen, sondern zuallererst um die Registrierung der Hunde, die auf andere Weise nicht möglich ist. Über die Ausgestaltung im Einzelnen und Befreiungen kann man gerne diskutieren."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Das Ziel der Hundesteuer ist es, sämtliche im Stadtgebiet lebenden Hunde zu erfassen und zu registrieren. Eine regelmäßige Überprüfung der Satzung und bei Bedarf eine Anpassung ist nach Meinung der FWE sinnvoll und notwendig. Insbesondere die Höhe des Betrages für sogenannte Listenhunde sollte aus unserer Sicht neu diskutiert und gegebenenfalls reduziert werden."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/josefstadt_west_desktop.jpg",
+      "mobile": "/assets/header/josefstadt_west_mobile.jpg",
+      "alttext": "Baum im Feld zwischen Eschborn und Frankfurt"
+    },
+    "category": "Josefstadt-West",
+    "thesis": "Eschborn soll sich der Realisierung des Frankfurter Neubaugebiets, auch bekannt als \"Josefstadt-West\", widersetzen.",
+    "description": "Der Begriff „Josefstadt-West“ beschreibt eine städtebauliche Entwicklungsmaßnahme im Nordwesten Frankfurts, insbesondere die Planungen westlich der Autobahn A5. Weitere Informationen zu den Maßnahmen finden sich auf der <a href=\"https://stadtplanungsamt-frankfurt.de/frankfurt_nordwest_neuer_stadtteil_der_quartiere_18798.html\" target=\"_blank\" rel=\"noopener\">Website des Stadtplanungsamts Frankfurt</a>.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1hGHrbPKKlHAgK5r2myOBf2RmPe1xdxUj&ll=50.15456309390866%2C8.611024183459453&z=14\" target=\"_blank\" rel=\"noopener\"> Standort des „Josefstadt“</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Der Bau einer Frankurter Trabantenstadt westlich der BAB 5 fördert die Zersiedelung im Rhein-Main-Gebiet, reduziert wichtige landwirtschaftlich und für die Naherholung genutzte Flächen, die gleichzeitig auch geographisch eine klare Trennung zu Frankfurt darstellen. Zudem würde der Bau der „Josef-Stadt“, auch die Eschborner Verkehrsinfrastruktur zusätzlich belasten. "
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir GRÜNE sehen den Bau der Josefstadt-West mit Blick auf die Frischluftschneise, das reduzierte Naherholungsgebiet und wegen des ansteigenden Straßenverkehrs kritisch."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "neutral",
+        "statement": "Dieser Frage stehen wir neutral gegenüber, da der Teil des Neubaugebietes westlich der Autobahn bereits in der Regionalversammlung abgelehnt wurde und keine einzige Anreinerkommune inklusive Frankfurt ihn mehr realisieren will. Daher stellt aus unserer Sicht eine derartige Wahlaussage, einen Angstwahlkampf ohne realen Hintergrund dar."
+      },
+      "Linke": {
+        "position": "neutral",
+        "statement": "Im Rhein-Main-Gebiet wird mehr bezahlbarer Wohnraum dringend benötigt. Natürlich gibt es einen Zielkonflikt zwischen Flächenverbrauch und Schaffung von Wohnraum, aber die kürzlich vorgestellten Planungen der Stadt Frankfurt erscheinen uns als ein durchaus vernünftiger Kompromiss aus beiden Belangen. Die Interessen der Stadt Eschborn werden dadurch unseres Erachtens nicht beeinträchtigt."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Die FWE lehnt die Ausbaupläne der sogenannten „Josefstadt“ der Stadt Frankfurt  westlich der A5 ab. Neben der immensen Verkehrsbelastung ist auch  der Verlust von wertvollen Ackerflächen und die Beeinträchtigung der wichtigen Frischluftschneise vom Taunus nach Frankfurt zu nennen.\nInsbesondere die katastrophale Verkehrssituation, die sich für Eschborn mit einer Wohnbebauung westlich der A5 ergeben würde, ist völlig inakzeptabel."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/klimaneutrale_stadt_desktop.jpg",
+      "mobile": "/assets/header/klimaneutrale_stadt_mobile.jpg",
+      "alttext": "Grünes Feld"
+    },
+    "category": "Klimaneutrale Stadt",
+    "thesis": "Die Stadtverwaltung soll in den nächsten Jahren klimaneutral werden.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Die städtische Verwaltung soll aus unserer Sicht klimaneutral werden. Dies kann beispielsweise durch energetische Maßnahmen an den Gebäuden, den Einsatz von Photovoltaik und die Elektrifizierung des Fuhr- und Geräteparks befördert werden."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir GRÜNE streben an, in Eschborn bis zum Jahr 2035 Klimaneutralität zu erreichen. "
+      },
+      "FDP": {
+        "position": "neutral",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Wenn die Kommune nicht mit gutem Beispiel gegen die Klimakrise voranschreitet, werden die Bürger dieses Thema auch für sich nicht für wichtig nehmen. Deshalb ist es wichtig, dass Eschborn hier als Verwaltung mit gutem Beispiel vorangeht."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Die Stadt Eschborn kann und muss sich das leisten. Die Frage ist, wie es erreicht wird: durch „Ablasshandel“ (also zum Beispiel durch Ausgleichszahlungen oder den Kauf von Zertifikaten) oder durch konkrete CO2-einsparende Maßnahmen. Wir wollen konkrete Maßnahmen: Energiesparmaßnahmen, Ausbau der erneuerbaren Energien."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Die Forderung, dass die Stadtverwaltung klimaneutral werden soll, ist für die FWE nur ein kleiner Baustein im Klimakonzept unserer Stadt. Die Stadt Eschborn hat 2014 ein Klimaschutzkonzept verabschiedet. Ein Klimakonzept kann aber erst dann wirken, wenn die darin beschriebenen Maßnahmen und Ideen auch realisiert werden. Genau hier setzt die FWE an und fordert die zügige Umsetzung der im Klimakonzept festgehaltenen Ziele. Die FWE setzt sich dafür ein, dass innovative Lösungen hinsichtlich des Umwelt und Klimaschutzes genutzt werden sollen, auch wenn sie bisher noch nicht berücksichtigt wurden oder möglich waren. So plädiert die FWE für eine strategische kommunale Wärmeplanung, die darstellt, wie in den kommenden Jahrzehnten die Energieversorgung in und für Eschborn aussehen soll. Diese soll auch die Möglichkeit der Abwärmenutzung, z.B. aus IT-Rechenzentren für Wohngebiete oder öffentliche Gebäude in Betracht ziehen. Dass die Stadtverwaltung beim Thema Klimaschutz mit gutem Beispiel vorangehen soll ist nur ein kleiner Teil einer effektiven Klimapolitik, aber auch ein wichtiger. Daher ist die FWE auch dafür, dass Rathaus, die neue Stadthalle und weitere öffentliche Gebäude mit dem Ziel der Klimaneutralität optimiert werden sollen."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/kommunale_hebamme_desktop.jpg",
+      "mobile": "/assets/header/kommunale_hebamme_mobile.jpg",
+      "alttext": "Hand eines Babys"
+    },
+    "category": "Kommunale Hebamme",
+    "thesis": "Die Stadt Eschborn soll eine kommunale Hebamme beschäftigen, um die Situation für angehende Eltern zu verbessern.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "neutral",
+        "statement": "Es ist grundsätzlich zu begrüßen, wenn die Hebammenbetreuung auf ein breiteres Fundament gestellt wird. Allerdings hat die Stadt in diesem Punkt weder eine Expertise vorzuweisen, noch ist eine entsprechende Infrastruktur vorhanden, weshalb der Ausbau der kreiseigenen Gesundheitsinfrastruktur sinnvoll erscheint."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "Wir GRÜNE setzen uns dafür ein, dass sich Schwangere vor, während und nach der Geburt auf eine gute Versorgung verlassen können. Hier sind die Maßnahmen des Main-Taunus-Kreis miteinzubeziehen."
+      },
+      "FDP": {
+        "position": "neutral",
+        "statement": "Bevor eine kommunale Hebamme beschäftigt/gefördert wird, sollte der konkrete Bedarf erhoben werden."
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Nachdem ein Gesetz die Hebammen extrem einschränkt , wollen wir zumindest kommunal junge Familien durch eine kommunale Hebamme unterstützen und das System der „Frühen Hilfen“ etablieren."
+      },
+      "Linke": {
+        "position": "disagree",
+        "statement": "Wenn überhaupt, wäre das im Hinblick auf die kommunale Zuständigkeitsverteilung und vor allem auf den Bedarf eher eine Kreisaufgabe; die Stadt Eschborn ist weder Krankenhausträger noch hat sie eine Kassenzulassung. Städtische Unterstützung der Hebammen in unserem Bereich, ggf. auch durch finanzielle Beihilfen, unterstützen wir aber gerne."
+      },
+      "FWE": {
+        "position": "neutral",
+        "statement": "Die FWE möchte lokale Unternehmer, Freiberufler und Selbständige unterstützen. Dafür hat sie sich beispielsweise mit einem Antrag eingesetzt, der einen städtischen „Gewerbehof“ oder ein Gebäude vorsieht, in dem Gewerbetreibende, Handwerker und im Prinzip auch Freiberufler Räume zu attraktiven Konditionen mieten und nutzen können. Somit könnte beispielsweise auch eine Hebammen-Praxis in Eschborn entstehen."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/mobilfunkturm_niederhoechstadt_desktop.jpg",
+      "mobile": "/assets/header/mobilfunkturm_niederhoechstadt_mobile.jpg",
+      "alttext": "Mobilfunkturm in Niederhöchstadt"
+    },
+    "category": "Mobilfunkturm Niederhöchstadt",
+    "thesis": "Der Mobilfunkturm in Niederhöchstadt soll schnellstmöglich außer Betrieb genommen werden.",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Jo1vCmCBezl1GoAx8rF2Yz0JGrQfDSAD&ll=50.165282140747536%2C8.54358399982543&z=19\" target=\"_blank\" rel=\"noopener\">Standort des Mobilfunkturms</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "neutral",
+        "statement": "Ein Abbau des Mobilfunkturms in Niederhöchstadt kann dann realisiert werden, wenn das von uns beantragte Mobilfunkkonzept, unter Beachtung der neuen 5G-Standards, erstellt und ein besser geeigneter Standort gefunden worden ist. Die Netzsicherheit darf aufgrund von verstärkter Homeoffice-Nutzung durch die Eschborner Bürgerschaft sowie neuer Anforderungen im Bereich der Digitalisierung durch einen ungeplanten Abbau nicht gefährdet werden."
+      },
+      "Grüne": {
+        "position": "disagree",
+        "statement": "Wir GRÜNE wollen die Mobilfunkabdeckung in Eschborn leistungsstark und flächendeckend erhalten. Bevor über die Außerbetriebnahme des Mobilfunkturms in Niederhöchstadt entschieden wird, muss zunächst ein zukunftsfähiges Mobilfunkkonzept vorgelegt werden."
+      },
+      "FDP": {
+        "position": "neutral",
+        "statement": "Zunächst sollte die Versorgungssicherheit sichergestellt werden, dann kann und soll auch der Mobilfunkturm - nach Ablauf des Pachtvertrags - entfallen."
+      },
+      "SPD": {
+        "position": "neutral",
+        "statement": "Im Rahmen des zu erstellenden Mobilfunkkonzeptes soll dieser Standort - sofern technisch möglich - ersetzt werden."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Ja. So schnell wie möglich, aber unter Berücksichtigung einer angemessenen Versorgung mit mobilem Internet."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Der Mobilfunkturm in Niederhöchstadt wurde 2006 ohne Beteiligung des Stadtparlaments beschlossen. Die Strahlungsintensität ist besonders hoch. Deshalb setzt sich die FWE seit dem Bau des Turmes für den Abbau des Turmes ein. Die FWE plädiert dringend dafür, diesen Vertrag zeitnah und vorsorglich zu kündigen. Durch eine frühzeitige Kündigung der Verträge wird für die Stadt Eschborn eine bessere Ausgangsposition hinsichtlich der Vertragsverhandlungen geschaffen. "
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/nahversorgung_desktop.jpg",
+      "mobile": "/assets/header/nahversorgung_mobile.jpg",
+      "alttext": "Restaurants und Geschäfte in der Stadtmitte"
+    },
+    "category": "Nahversorgung",
+    "thesis": "Die Nahversorgung soll gestärkt werden, indem Kleingewerbtreibende in städtischen Gebäuden finanziell unterstützt werden.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "disagree",
+        "statement": "Ein Einzelhandelskonzept zur Förderung von Kleinbetrieben, beispielsweise durch die Erstellung und Ertüchtigung von geeigneten Flächen mit wirtschaftlich sinnvollen finanziellen Rahmenbedinungen, soll erstellt werden. Eine direkte finanzielle Förderung von Kleinbetrieben ist für eine Stadt rechtlich kaum möglich und marktwirtschaftlich schwierig."
+      },
+      "Grüne": {
+        "position": "disagree",
+        "statement": "Wir GRÜNE wollen den Einzelhandel in Eschborn erhalten und stärken und Online-Portale zur regionalen Vermarktung für Eschborns Einzelhändler:innen fördern."
+      },
+      "FDP": {
+        "position": "disagree",
+        "statement": "Die Stadt Eschborn kann Räumlichkeiten für Kleingewerbe herstellen, eine finanzielle Förderung wäre jedoch Wettbewerbsverzerrung."
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Wir machen uns dafür stark, dass es in unserer Kommune wieder einen Metzger und - mindestens – ein Café gibt. Das funktioniert nur, wenn wir den Einzelhändlern ein attraktives Angebot bieten, sich in Eschborn langfristig erfolgreich anzusiedeln."
+      },
+      "Linke": {
+        "position": "disagree",
+        "statement": "DIE LINKE.Eschborn sieht den Trend zu vorwiegend mit dem Auto erreichbaren Märkten an der Peripherie kritisch und setzt sich für die Erhaltung der Nahversorgung ein. Der richtige Weg zur Förderung sind aber entsprechende stadtplanerische Konzepte (auch im Rahmen des zu beschließenden Masterplans) und nicht die Subventionierung einzelner Betriebe in städtischen Liegenschaften."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Eine Aufwertung der Ortskerne in  Eschborn und Niederhöchstadt ist auch für die FWE wünschenswert.  Die FWE hatte in der letzten Stadtverordnetenversammlung eine Prüfung beantragt, ob unter Eschborner Kleingewerbetreibenden ein Bedarf an Räumlichkeiten im Ortskern besteht. Dieser Antrag wurde mehrheitlich abgelehnt. "
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/regionaltangente_west_desktop.jpg",
+      "mobile": "/assets/header/regionaltangente_west_mobile.jpg",
+      "alttext": "Taunusbahn an Eschborner Gemarkung"
+    },
+    "category": "Regionaltangente West",
+    "thesis": "Die Stadt Eschborn soll die Umsetzung der Regionaltangente West vorantreiben.",
+    "description": "Die Regionalttangente West ist eine in Planung befindliche Bahnstrecke die Eschborn z.B. mit dem Flughafen und Bad Homburg vernetzt und drei Haltestellen in Eschborn vorsieht.\n🌐 <a href=\"https://www.rtw-hessen.de/\" target=\"_blank\" rel=\"noopener\">Website der RTW Planungsgesellschaft</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Wir stehen klar für eine möglichst zeitnahe Umsetzung der Regionaltangente West. Als zentraler Bestandteil eines ideologiefreien Verkehrskonzeptes für alle Verkehrsteilnehmer, soll sie die Attraktivität des öffentlichen Nahverkehrs steigern und den Eschborner Bürgerinnen und Bürgern sowie den Unternehmen ein attraktives Mobilitätsangebot machen."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir GRÜNE setzen uns für die Realisierung der Regionaltangente West (RTW) mit verbesserter Feinplanung ein."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Wir sind davon überzeugt, dass die Regionaltangente West einen entscheidenden Beitrag für die Mobilität der Zukunft leisten wird und setzen uns nachdrücklich dafür ein, dass der Bau der Bahnlinie durch die Stadt Eschborn vorangetrieben wird, auch prioritär zum Straßenbau."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Auch wenn noch längst nicht alle Probleme und Stolpersteine für die RTW aus dem Weg geräumt sind: Der Ausbau des Schienenverkehrs ist wichtig für Umwelt und Lebensqualität, und die RTW bietet insbesondere auch Eschborn mit 3 Haltepunkten große Chancen, das (Auto-)Verkehrschaos zu mindern. Eschborn als ein Hauptnutznießer muss sich zur RTW bekennen und darf nicht weiter, wie zuletzt durch CDU/FDP/FWE/Grüne geschehen, dem Autoverkehr Vorrang einräumen."
+      },
+      "FWE": {
+        "position": "neutral",
+        "statement": "Für die FWE ist Ausbau und Weiterentwicklung des ÖPNV selbstverständlich ein wichtiger Aspekt, wenn es darum geht, Verkehrsprobleme in den Griff zu bekommen.Die seit bereits Jahrzehnten diskutierte Regional-Tangente West (RTW) kann ein weiterer Lösungsansatz sein. Jedoch fehlen bei diesem Mammutprojekt noch wesentliche Informationen und viele Fragen sind  noch nicht geklärt. Die FWE wird das Projekt sehr kritisch begleiten und erwartet von der Stadt Eschborn als auch von der RTW-Gesellschaft, die Stadtverordneten und die Eschborner Bürgerinnen und Bürger über alle Aspekte des Projekts zeitnah und transparent zu informieren. Dies ist insbesondere nach der kürzlich publik gemachten Kostenexplosion auf über 1 Milliarde Euro Gesamtkosten absolut notwendig."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/wiesenbad_eschborn_desktop.jpg",
+      "mobile": "/assets/header/wiesenbad_eschborn_mobile.jpg",
+      "alttext": "Eingang vom Wiesenbad Eschborn"
+    },
+    "category": "Schwimmbad",
+    "thesis": "Kinder aus Eschborn sollen das Wiesenbad kostenlos nutzen können, um perspektivisch dem steigenden Anteil an Nichtschwimmern entgegenzuwirken.",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1xtI4VnkdNA2D0mQ2y9EEN372WAnqHBll&ll=50.14878354643335%2C8.558523975962169&z=18\" target=\"_blank\" rel=\"noopener\">Standort des Wiesenbad</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Mit Sorge betrachten wir den steigenden Anteil von Nichtschwimmern unter den Kindern in unserer Gesellschaft. Deshalb wollen wir mit dieser Initiative Kindern den Zugang zum Schwimmen erleichtern und mit den steigenden Wasserflächen, durch den Neubau eines zusätzlichen 50m-Beckens, das gute vorhandene Angebot unseres Wiesenbades ausbauen."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "Wir GRÜNE setzen uns dafür ein, dass alle Kinder sicher schwimmen lernen. Die niedrigen Eintrittspreise im Wiesenbad sollen erhalten bleiben, bereits heute ist der Eintritt für viele Kinder kostenlos."
+      },
+      "FDP": {
+        "position": "disagree",
+        "statement": "Kostenloser Eintritt ins Wiesenbad ist nicht gleichbedeutend mit einer verbesserten Fähigkeit zu schwimmen. Die FDP setzt sich dafür ein, dass der erste Schwimmkurs einen jeden Eschborner Kindes kostenfrei ist. "
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Nachdem Corona dazu geführt hat, dass mindestens zwei Jahrgänge im Vorschulalter nicht schwimmen gelernt haben, besteht große Gefahr für diese Kinder. Daher ist es unerlässlich, dass Eschborn aktiv die Schwimmangebote verstärkt."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Wir stimmen gerne einer kostenlosen Nutzung des Schwimmbads für Schul- und Kindergartenkinder zu, seien sie aus Eschborn oder Nachbargemeinden. Noch wichtiger ist aber die Bereitstellung ausreichender Kapazitäten. Deshalb muss die längst beschlossene neue Schwimmhalle schnellstmöglich realisiert werden."
+      },
+      "FWE": {
+        "position": "neutral",
+        "statement": "Die FWE hat sich beharrlich für den Bau einer zweiten Schwimmhalle eingesetzt und konnte schließlich erreichen, das der bereits befasste Beschluss, lediglich das Freibad zu erweitern, zurückgenommen wurde und stattdessen der Bau einer zweiten Schwimmhallte beschlossen wurde. Eine Aufwertung des Außenbereiches wird im Anschluss erfolgen. Wenn die neue Halle ihren Betrieb aufnimmt, wird ein Nutzungs- und Gebührenkonzept entwickelt werden. Die derzeitigen Eintrittsgebühren sind seit Jahren auf einem sehr niedrigen Niveau. Ob der Weg über eine kostenlosen Schwimmbadnutzung tatsächlich dazu führt, dass mehr Kinder schwimmen lernen, ist für die FWE fraglich. Finanzielle Unterstützung für den Besuch von Schwimmkursen erscheint uns der bessere Lösungsansatz."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/sicherheitskameras_desktop.jpg",
+      "mobile": "/assets/header/sicherheitskameras_mobile.jpg",
+      "alttext": "Sicherheitskameras"
+    },
+    "category": "Sicherheitskameras",
+    "thesis": "Um das Sicherheitsgefühl zu stärken und eventuelle Straftaten zu verhindern soll die Installation von Sicherheitskameras an ausgewählten Orten in Erwägung gezogen werden.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Um die Sicherheit an kritischen Orten in unserer Stadt zu steigern und Diebstahl, Vandalismus oder Straftaten gegen die körperliche Unversehrtheit entgegenzuwirken, wollen wir den Einsatz von Sicherheitskameras unter den Gesichtspunkten des Datenschutzes und des maßvollen Einsatzes an Gefährdungspunkten prüfen lassen."
+      },
+      "Grüne": {
+        "position": "disagree",
+        "statement": "Wir GRÜNE achten Persönlichkeitsrechte hoch und sind der Überzeugung, dass Sicherheitskameras keine Straftaten verhindern."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "disagree",
+        "statement": "Eine anlasslose Massenüberwachung der Eschborner Bürger mittels Kameras stellt die Eschborner Bürger unter Generalverdacht. Daher sind wir gegen die anlaßlose Kameraüberwachung, welche einen massiven Eingriff in die Freiheitsrechte der Bürger darstellt."
+      },
+      "Linke": {
+        "position": "neutral",
+        "statement": "Kameraüberwachung auf öffentlichen Plätzen lehnen wir ab. An besonders gefährdeten Stellen, wie zum Beispiel öffentlichen Tiefgaragen, Unterführungen oder Parkplätzen, kann dies im Einzelfall aber gerechtfertigt sein,  "
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Die FWE befürwortet den Einsatz von Sicherheitskameras an bestimmten, als besonders unsicher empfundenen Orten. Unter Berücksichtigung des Datenschutzes sollte dies geprüft werden. Der Einsatz von Kameras kann das Sicherheitsgefühl der Bewohnerinnen und Bewohner stärken, sollte aber nicht leichtfertig umgesetzt werden. "
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/smart_city_desktop.jpg",
+      "mobile": "/assets/header/smart_city_mobile.jpg",
+      "alttext": "Eschborner Büros"
+    },
+    "category": "Smart City",
+    "thesis": "Eschborn soll zur Modellkommune für Smart City-Konzepte werden.",
+    "description": "„Smart City ist ein Sammelbegriff für gesamtheitliche Entwicklungskonzepte, die darauf abzielen, Städte effizienter, technologisch fortschrittlicher, grüner und sozial inklusiver zu gestalten. Diese Konzepte beinhalten technische, wirtschaftliche und gesellschaftliche Innovationen. Der Begriff findet auch im Stadtmarketing und bei großen Technologiekonzernen Verwendung.“ - <a href=\"https://de.wikipedia.org/wiki/Smart_City\" target=\"_blank\" rel=\"noopener\">Auszug von Wikipedia</a>.",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Wir wollen Eschborn zur Modellkommune Smart City entwickeln. Dies dient dazu, dass Digitalisierung an den richtigen Punkten in Verwaltung, Verkehr oder auch Stadtentwicklung eingesetzt wird, um Ressourcen an geeigneter Stelle zu schonen und die Attraktivität unserer Stadt für die Bürgerschaft, wie auch als Wohn- und Wirtschaftsstandort zu steigern. "
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir GRÜNE setzen uns für eine zukunftsorientierte kommunale digitale Agenda in Eschborn ein, mit aufeinander abgestimmten digitalen Lösungen von den internen Verwaltungsabläufen bis hin zu Leistungen und Beteiligungsformate für Bürger:innen. "
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "neutral",
+        "statement": "Einzelne Elemente einer Smart City können für Eschborn interessant sein."
+      },
+      "Linke": {
+        "position": "disagree",
+        "statement": "Selbstverständlich soll die Stadtverwaltung und sollen die öffentlichen Dienstleistungen über Internet, Smartphone, Smartwatch und wie auch immer dem technischen Stand entsprechend zugänglich sein. Und auch städtische Gebühren sollen selbstverständlich wie mittlerweile in fast jeder Bäckerei auch per Smartphone bezahlt werden können. Aber daraus eine „Smart-City“ zu konstruieren, halten wir für einen reinen Marketing-Gag."
+      },
+      "FWE": {
+        "position": "neutral",
+        "statement": ""
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/stadtpolizei_desktop.jpg",
+      "mobile": "/assets/header/stadtpolizei_mobile.jpg",
+      "alttext": "Auto der Stadtpolizei"
+    },
+    "category": "Stadtpolizei",
+    "thesis": "Die Stadtpolizei soll personell verstärkt werden.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Eine leistungsfähige Stadtpolizei ist die erste Linie der Gefahrenabwehr unserer Stadt. Die personelle Stärkung soll außerdem die Erreichbarkeit erhöhen und regelmäßige, wie auch umfassende Nachtdienste sicherstellen."
+      },
+      "Grüne": {
+        "position": "disagree",
+        "statement": "Eschborn hat jetzt schon die personell am besten aufgestellte Stadtpolizei im Main-Taunus-Kreis."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "disagree",
+        "statement": "Die Stadtpolizei leistet mit den vorhandenen Stellen gute Arbeit."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Soweit erforderlich, ist der Ausbau einer professionell auch in freundlichem und deeskalierendem Umgang geschulten Stadtpolizei sinnvoll und in jedem Fall dem Einsatz von privaten „Securities“ vorzuziehen."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Der Einsatz und die Aufgaben der Stadtpolizei müssen geprüft werden. Ggfs. ist die Personalstärke entsprechend anzupassen. Der Einsatz von privaten Sicherheitsdiensten ist auf seine Rechtmäßigkeit zu prüfen."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/gewerbegebiete_beleben_desktop.jpg",
+      "mobile": "/assets/header/gewerbegebiete_beleben_mobile.jpg",
+      "alttext": "Gastronomie im Gewerbegebiet Süd"
+    },
+    "category": "Wohnraum in Gewerbegebieten",
+    "thesis": "Die Gewerbegebiete sollen Teil des Stadtlebens werden, indem dort Wohnflächen geschaffen werden.",
+    "description": "Eschborn hat im Vergleich zur Einwohnerzahl (etwa 21.000) relativ viele Arbeitsplätze (über 30.000), die meisten davon im Gewerbegebiet Süd.\n🌐 <a href=\"https://www.eschborn.de/wirtschaft/wirtschaftsstandort/gewerbegebiete/\" target=\"_blank\" rel=\"noopener\">Informationen zu den Gewerbegebieten Eschborns auf der Website der Stadt Eschborn</a>.",
+    "evaluation": {
+      "CDU": {
+        "position": "disagree",
+        "statement": "Reine Gewerbe- bzw. Wohngebiete sollen klar getrennt werden – nur so können wir als Stadt sicherstellen, dass wir aus den jeweiligen Gebieten städtebaulich das Beste herausholen können. Immissions- und Verkehrsproblematiken aus Wohn- und Gewerbegebieten sollten nicht in den jeweils anderen Bereich transferiert werden."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir GRÜNE wollen für das Gewerbegebiet Süd prüfen lassen, ob sich dieses in ein Mischgebiet entwickelt lässt, in dem auch eine Wohnbebauung möglich ist."
+      },
+      "FDP": {
+        "position": "neutral",
+        "statement": "Mit der Schaffung von Wohnraum wäre es nicht getan, denn auch die Infrastruktur müsste erweitert werden (Einkaufsmöglichkeiten, Ärzte, Kita, etc.). Dadurch ginge zu viel Gewerbefläche verloren und damit auch Einnahmen für die Stadt."
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Hierzu wurden bereits mit den Stimmen der SPD in der Stadtverordnetenversammlung Beschlüsse gefaßt."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Wir sind offen für entsprechende Vorschläge. Eschborn braucht Wohnraum - für alle. Die Umwidmung von überflüssigen Gewerbeflächen kann eine Chance sein."
+      },
+      "FWE": {
+        "position": "neutral",
+        "statement": "Die Gewerbegebiete  aufzuwerten oder umzugestalten, dass Wohngebiete mit einer annehmbaren Wohnqualität entstehen, ist aus Sicht der FWE schwer umsetzbar. Generell sollte versucht werden, auch die Gewerbegebiete attraktiv und lebendig zu halten. Wiederkehrende Foodfestivals im  Gewerbegebiet könnten aus Sicht der FWE ein Weg sind, einen Betrag dazu zu leisten."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/staedtepartnerschaften_desktop.jpg",
+      "mobile": "/assets/header/staedtepartnerschaften_mobile.jpg",
+      "alttext": "Schild am Ortseingang mit allen Partnerstädten"
+    },
+    "category": "Städtepartnerschaften",
+    "thesis": "Bestehende Städtepartnerschaften sollen gestärkt werden und es soll nach neuen Partnerschaften gesucht werden.",
+    "description": "Derzeit hat die Stadt Eschborn drei Städtepartnerschaften in verschiedenen Ländern Europas. Details erfährst du auf der 🌐 <a href=\"https://www.eschborn.de/stadt-kultur-und-tourismusinformationen/staedtepartnerschaften/\" target=\"_blank\" rel=\"noopener\">Website der Stadtverwaltung</a>.",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Mit Montgeron in Frankreich, Póvoa de Varzim in Portugal und Zabbar auf Malta pflegen wir einen sehr guten freundschaftlichen Kontakt. Wir wollen weiterhin gegenseitige Besuche auf offizieller Ebene fördern und ermöglichen, dass junge Menschen durch Austauschprogramme andere Länder und Kulturen kennenlernen können. Wir stehen weiteren Städtepartnerschaften grundsätzlich sehr offen gegenüber."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": ""
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": "Nach Auffassung der FDP in Australien oder Neuseeland, um dem hohen Interesse der jüngeren Generationen an diesen Ländern gerecht zu werden. "
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Für die Eschborner Kinder soll Montgeron nicht nur der Name eines Platzes sein, sondern die Kinder sollen unsere Partnerstädte kennenlernen und so auch ihren Horizont für andere Kulturen erweitern. Daher wollen wir Sommerfreizeiten für Schüler in unsere Partnerstädte."
+      },
+      "Linke": {
+        "position": "neutral",
+        "statement": "Internationale Städtepartnerschaften und vor allem der Ausbau der bestehenden Partnerschaften sind eine wichtige Sache - aber vor allem wenn sie dem Ausbau von internationaler Solidarität dienen und insbesondere zu entsprechenden Kontakten von jungen Menschen führen."
+      },
+      "FWE": {
+        "position": "neutral",
+        "statement": ""
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/photovoltaik_desktop.jpg",
+      "mobile": "/assets/header/photovoltaik_mobile.jpg",
+      "alttext": "Wohnhaus mit Photovoltaik-Anlage auf dem Dach"
+    },
+    "category": "Photovoltaik-Forderung",
+    "thesis": "Die Stadt Eschborn soll den Ausbau von privaten Photovoltaikanlagen finanziell fördern.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Bereits seit Jahren gibt es in Eschborn ein Förderprogramm, initiiert seinerzeit unter anderem durch uns als CDU. Wir wollen auch in Zukunft die Bürgerinnen und Bürger darin (auch finanziell) unterstützen, ihren persönlichen Beitrag für den Klimaschutz in Eschborn zu leisten. Das Förderprogramm umfasst obendrein weitere Aspekte, wie z. B. Dämmung, Heizung oder die Wallbox für das E-Auto."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Die lebenswerte Stadt der Zukunft sehen wir GRÜNE als Null-Emissionen-Stadt. Wir GRÜNE wollen Solarenergie signifikant stärker nutzen und fördern."
+      },
+      "FDP": {
+        "position": "neutral",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Wir wollen den privaten Ausbau von Photovoltaikanlagen fördern und mehr Möglichkeiten zum Ausbau von Photovoltaikanlagen im öffentlichen Raum nutzen."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Möglichst viele private Fotovoltaikanlagen sind sehr zu begrüßen, weil sie helfen, den Anteil erneuerbarer Energien zu vergrößern. Aber ob neben der staatlichen Förderung (zum Beispiel durch die KfW) auch noch städtische Mittel fließen müssen, halten wir für fraglich - reine Mitnahmeeffekte sind wahrscheinlich. Für sinnvoller halten wir es, wenn die Stadt auf ihren vielen Gebäuden eigene Solaranlagen einrichtet - sei es zu Einspeisung oder zum Eigenverbrauch. Die notwendige Technik dafür gibt es."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Die Stadt Eschborn hat bereits eine gut funktionierende Förderung, die ab dem 1. Januar 2021 ausgeweitetete Förderungen für Solarstrom-Dachanlagen, und erstmals auch für Stecker-Solarstrom-Anlagen (zB für Balkone), Stromspeicher und Ladestationen (Wallboxen) enthält. "
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/sued_ost_verbindung_desktop.jpg",
+      "mobile": "/assets/header/sued_ost_verbindung_mobile.jpg",
+      "alttext": "Panorama von der Brücke der L3005 zwischen Eschborn Süd und Eschborn Ost"
+    },
+    "category": "Süd-Ost-Verbindung",
+    "thesis": "Die Planung der Süd-Ost-Verbindung soll gestoppt werden.",
+    "description": "Seit vielen Jahren werden verschiedene Varianten einer Straßenverbindung zwischen den Gewerbegebieten Süd und Ost diskutiert.\n📄 <a href=\"https://www.eschborn.de/fileadmin/eschborn/Bilder/Rathaus/Bauprojekte/verbindung_gewerbegebiete/15-04-14__PR_Verbindungsstrasse_Sued_Ost_Sachstand.pdf\" target=\"_blank\" rel=\"noopener\">Sachstandsbericht aus dem Jahr 2015</a>\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1lcv5egSab0FJm8wT7jNYTCTIk42Z2GxO&ll=50.13698790353437%2C8.576458328071404&z=17\" target=\"_blank\" rel=\"noopener\">Standort der geplanten Verbindung</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "disagree",
+        "statement": "Die Süd-Ost-Verbindung schafft eine dringend notwendige Entlastung für den Verkehr in unserer Stadt und reduziert Immissionen – für die Gewerbe- als auch für die Wohngebiete. Ein gültiger Planfeststellungsbeschluss liegt vor; wir setzen uns dafür ein, dass die Süd-Ost-Verbindung in den kommenden Jahren realisiert wird. Die CDU denkt Verkehrspolitik ideologiefrei: Für uns gehört die Süd-Ost-Verbindung deshalb genauso zum Verkehrsmix wie ein Ausbau des ÖPNVs und des Radverkehrs."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "Die vorliegenden Planungen lehnen wir  als veraltet ab. Für das Projekt „Süd-Ost-Verbindung“ fordern wir einen neuen und zukunftsorientierten Ansatz, der bei Vorliegen dann zu bewerten ist."
+      },
+      "FDP": {
+        "position": "disagree",
+        "statement": "Ganz im Gegenteil: Zur Entlastung der Verkehrswege muss die Süd-Ost-Verbindung dringend vorangetrieben werden."
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Wir glauben, dass die Süd-Ost-Verbindung heutzutage nicht mehr zeitgemäß ist. Denn in den kommenden Jahren werden neue Mobilitätsangebote und Bürokonzepte mit verstärkt mobiler Arbeit den Berufsverkehr auf der Straße deutlich vermindern. Auch steht die Verwirklichung der Süd-Ost-Umgehung dem Natur und Umweltschutz entgegen, ohne dass sie bei den aktuellen Rahmenbedingungen  eine Besserung des Staus bringt - wie es uns die Verkehrssachverständigen bereits vor Jahren erklärt haben."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Die Süd-Ost-Verbindung ist ein Anachronismus aus dem letzten Jahrhundert. Sie kostet einen hohen zweistelligen Millionenbetrag, lockt im Zweifel noch mehr Autoverkehr und Umweltverschmutzung an und verlagert bestenfalls die Staus um ein paar hundert Meter. Gefragt ist stattdessen ein Ausbau des öffentlichen Nahverkehrs."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Keine Option für die FWE ist das geplante Straßenbauprojekt „Süd-Ost-Umgehung“.Hier rechtfertigen die voraussichtlichen Kosten von über 50 Millionen aus unserer Sicht nicht die möglichen Vorteile, vor allem da eine echte Stauverringerung nur durch neue Autobahnanschlüsse und Umbau des Autobahnkreuzes durch das Land Hessen erreicht werden kann."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/hauptstrasse_niederhoechstadt_desktop.jpg",
+      "mobile": "/assets/header/hauptstrasse_niederhoechstadt_mobile.jpg",
+      "alttext": "Hauptstraße in Niederhöchstadt"
+    },
+    "category": "Verkehrsberuhigung der Hauptstraße ",
+    "thesis": "Die Hauptstraße in Niederhöchstadt - zwischen Steinbacher Str. und Platz an der Linde - soll vom Autoverkehr entlastet werden, um mehr Raum für Fußgänger und Einzelhandelsbetriebe zu schaffen.",
+    "description": "Die Hauptstraße in Niederhöchstadt hat im Vergleich zu anderen Abschnitten zwischen der Steinbacher Straße und dem Platz der Linde eine schmale Fahrspur und einen schmalen Gehweg.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=157q-_DnC6WebgKFtj0je0NGky5QY6zJQ&ll=50.1570036110865%2C8.548298937726777&z=17\" target=\"_blank\" rel=\"noopener\">Standort des Straßenabschnitts</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "neutral",
+        "statement": "Wir wollen die Hauptstraße in Niederhöchstadt entlasten und im Besonderen für Fußgänger, Eltern mit Kinderwagen und Rollstuhlfahrer sicherer machen. Allerdings in der Gesamtbetrachtung für das gesamte Stadtgebiet: Deshalb wollen wir gemeinsam mit dem Bürgermeister ein Verkehrskonzept umsetzen, das alle Verkehrsträger und Straßen im Blick hat. Denn ansonsten provozieren wir, dass die Entlastung der Hauptstraße automatisch zur Belastung mehrerer anderer Straßen – etwa der Kronberger Straße, Mühlstraße, Weidfeldstraße – wird."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir GRÜNE streben eine bessere Infrastruktur für eine klimafreundliche Mobilität ein, u.a. durch mehr Platz und verbesserte Verkehrssicherheit für Fußgänger:innen und Radfahrer:innen. "
+      },
+      "FDP": {
+        "position": "disagree",
+        "statement": "Eine autofreie Hauptstraße in diesem Streckenabschnitt führt zu einer höheren Belastung der Kronberger Straße, Georg-Büchner-Straße, Mühlstraße, Weidfeldstraße, Taunusstraße, etc."
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Es ist wichtig, dass die Hauptstraße als Gefahrenherd entschärft wird, um sie insbesondere für Kinder, mobil eingeschränkte und Mütter mit Kinderwagen gut nutzbar zu machen. Mit einer Verbesserung im Straßenverkehr wird die Hauptstraße auch für den Einzelhandel attraktiver, was wiederum zur Verbesserung der Lebensqualität führt."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Das Problem muss schnellstmöglich gelöst werden. Es geht nicht um das Ob, sondern um das Wie. Lösungsvorschläge liegen vor."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Für den Haushalt 2021 konnte die FWE durchsetzen, dass für die Hauptstraße Niederhöchstadt  kurzfristig umsetzbare verkehrsberuhigende Maßnahmen geprüft werden. Die Durchführung dieser Prüfung und der darauf basierenden Maßnahmen wird die FWE weiter vorantreiben. Auch für eine Gesamtanalyse der Verkehrs in Eschborn und eine nachhaltige Verkehrsplanung wird sich die FWE weiterhin einsetzen, um unter anderem auch für den genannten Abschnitt der Hauptstraße eine zukunftsorientierte Lösung zu finden."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/wohnheim_desktop.jpg",
+      "mobile": "/assets/header/wohnheim_mobile.jpg",
+      "alttext": "Wohnheim"
+    },
+    "category": "Wohnheim für Studenten und Auszubildende",
+    "thesis": "Es soll ein Wohnheim für Studenten und Auszubildende gebaut werden.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "disagree",
+        "statement": "Die CDU setzt sich für einen durchmischten Wohnbau in Eschborn ein. Wir haben nicht nur den Blick auf die klassischen Sozialwohnungen, sondern wollen mit einem Förderprogramm gezielt auch die Ehrenamtlichen in unserer Stadt unterstützen, die weder wohngeldberechtigt noch Wohnberechtigungsscheininhaber sind, sich finanziell jedoch keine Wohnung leisten können. Dabei denken wir ausdrücklich auch an junge Menschen, die studieren oder sich in einer Ausbildung befinden."
+      },
+      "Grüne": {
+        "position": "agree",
+        "statement": "Wir GRÜNE wollen in Eschborn  ein Studierendenhaus realisieren."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": "Nach Ansicht der FDP sollen Mikroapartments für Studenten etc. privatwirtschaftlich gebaut und gefördert werden."
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Wir machen uns für ein Wohnheim für Auszubildende und Studierende stark."
+      },
+      "Linke": {
+        "position": "disagree",
+        "statement": "Die Stadt Eschborn hat viele freiwillige Aufgaben übernommen, denen sie zum Teil nicht nachkommen kann. Statt neue freiwillige Aufgaben zu übernehmen, und dazu gehört der Bau eines solchen Wohnheims, sollte sie sich lieber um die Umsetzung der aktuellen Aufgaben kümmern."
+      },
+      "FWE": {
+        "position": "neutral",
+        "statement": "Die FWE setzt sich für Wohnraum für alle ein, auch für Studierende und Auszubildende. Den Bau eines Wohnheimes für diese Gruppe sehen wir jedoch derzeit als nicht notwendig an. Vielmehr plädiert die FWE dafür, Räumlichkeiten zur Verfügung zu stellen, die die Studierenden für Lern- und Studienzwecken nutzen können."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/neubaugebiet_doernweg_desktop.jpg",
+      "mobile": "/assets/header/neubaugebiet_doernweg_mobile.jpg",
+      "alttext": "Feldfläche an Kreuzung Dörnweg / Nordstraße"
+    },
+    "category": "Neubaugebiet Dörnweg",
+    "thesis": "Im Dörnweg nahe der Heinrich von Kleist-Schule soll die Umsetzung eines Neubaugebiets vorangetrieben werden.",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1fezHFJsu2UcMEUqDwtdoABgxJRk2qn14&ll=50.150401080104956%2C8.568112748343276&z=17\" target=\"_blank\" rel=\"noopener\">Standort eines potenziellen Neubaugebiets am Dörnweg</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "neutral",
+        "statement": "Derzeit gibt es keinerlei Pläne für die Umsetzung eines Neubaugebietes an der HvK. Grundsätzlich stehen wir der Entwicklung von neuem Wohnraum positiv gegenüber. Gleichwohl gibt es bereits andere Projekte, die sich nicht nur im Stadium vager Gedankenspiele bewegen, sondern bereits konkreter sind, wie etwa das Baugebiet gegenüber des Wiesenbades. Zunächst sollten wir diese Projekte umsetzen, bevor wir neue Baustellen eröffnen."
+      },
+      "Grüne": {
+        "position": "disagree",
+        "statement": "Bei diesem Gebiet handelt es sich um eine Fläche im Außenbereich, für welche die verkehrliche Erschließung fehlt."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": "Parallel dazu muss der Dörnweg bzw. die Nordstraße an die L3006 angebunden werden, um das gesamte Gebiet rund um die Heinrich-von-Kleist-Schule verkehrlich zu entlasten."
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Das Mietniveau in Eschborn ist so hoch, dass viele Familien und Normalverdiener kaum noch eine bezahlbare Wohnung finden. Auch junge Erwachsene und Auszubildende, die von zu Hause ausziehen und in Eschborn bleiben wollen, können sich die Mieten hier nicht leisten. Städtische Möglichkeiten, diese Situation zu ändern werden in Eschborn nicht ausreichend genutzt. Daher muß man auch dieses Gebiet ins Auge fassen."
+      },
+      "Linke": {
+        "position": "neutral",
+        "statement": "Eschborn hat einen hohen Bedarf an Wohnungen, aber wenige Flächen, die für Wohnungsbau zur Verfügung stehen. Zunächst sollten aber die bereits bestehenden Projekte zur Schaffung von bezahlbarem Wohnraum zum Beispiel Hauptstraße 195, ehemaliges Wollrab-Gelände, bisherige Feuerwehr) genutzt werden."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Die FWE befürwortet die Schaffung von Wohnraum. Das Bauerwartungsland gegenüber der HvK ist aus Sicht der FWE ein guter Platz, um ein Wohngebiet zu entwickeln. Selbstverständlich gilt auch hier, dass Wohnraum auch für sozial schwächere Bürgerinnen und Bürger mit eingeplant werden muss. Ebenso sind die Forderungen der FWE im Hinblick auf Klimaschutz und kommunale Wärmeplanung zu berücksichtigen."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/platzhalter_desktop.jpg",
+      "mobile": "/assets/header/platzhalter_mobile.jpg",
+      "alttext": "Eschenplatz mit Brunnen und Museum"
+    },
+    "category": "Open-Air-Kino",
+    "thesis": "Auch nach der Pandemie soll langfristig und regelmäßig ein Open-Air-Kino stattfinden.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Auf unsere Initiative als CDU hin gab es 2020 erstmals ein Open-Air-Kino. Auch nach der Corona-Pandemie möchten wir ein festes Open-Air-Kino-Programm in unserer Stadt etablieren, das rotierend die Standorte wechselt. Wir stellen uns z. B. Austragungen im Wiesenbad vor. Daneben wollen wir zu besonderen Veranstaltungen (etwa Fußball-EM) Public-Viewing-Events prüfen."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "Über das Programm des Eschborn K und der Summertime-Veranstaltungen hinaus sehen wir hier keinen zusätzlichen Bedarf."
+      },
+      "FDP": {
+        "position": "neutral",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "neutral",
+        "statement": "Es gibt vielfältige Kulturveranstaltungen in Eschborn. Dazu kann auch ein Open Air Kino gehören."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Ein Open-Air-Kino ohne Auto (!) gibt es in Eschborn bereits seit langem und das soll es auch weiter geben. Aber die Variante mit Auto lehnen wir ab, sei es während oder nach der Pandemie."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Ein Vorschlag, den die FWE bereits im Frühjahr 2020 zu Beginn der Corona-Krise gemacht hatte, ist die Eröffnung eines sogenannten Pop-Up-Autokinos. Ein Autokino kann nicht nur für Filmvorstellungen mit dem nötigen Abstand genutzt werden, sondern bietet auch ohne Auto die Möglichkeit, die Leinwand für Kinoabende im Freien zu nutzen. Des Weiteren können Leinwand und Bühne für andere Veranstaltungen, wie z.B. Konzerte, Comedy-Shows und sogar Gottesdienste genutzt werden. Nicht nur in Corona-Zeiten, sondern auch darüber hinaus bietet ein Autokino daher vielfältige Möglichkeiten für unvergessliche Events sowie ein gewisses Flair aus vergangenen Zeiten. Nicht ohne Grund haben 2020 viele bereits geschlossene Autokinos ein willkommenes Comeback gefeiert."
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/psychologische_betreuung_desktop.jpg",
+      "mobile": "/assets/header/psychologische_betreuung_mobile.jpg",
+      "alttext": "Kind beim Malen"
+    },
+    "category": "Psychologische Betreuung",
+    "thesis": "Die Stadt Eschborn soll ein psychologisches Betreuungsangebot für Kinder und Jugendliche schaffen.",
+    "description": "",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Kinder und Jugendliche durchlaufen regelmäßig herausfordernde Entwicklungsphasen. Es treten Konflikte im persönlichen, schulischen oder familiären Umfeld auf. Um hier die jungen Menschen unabhängig von den Voraussetzungen im eigenen Zuhause zu unterstützen und zu erreichen, wollen wir eine jugendpsychologische Betreuung in Eschborn etablieren."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "In Eschborn und im Main-Taunus-Kreis gibt es bereits ein breites Beratungs- und Betreuungsangebot. Dies gilt es ggf. zu unterstützen und zu bündeln."
+      },
+      "FDP": {
+        "position": "neutral",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Studien belegen, dass Kinder und Jugendliche immer häufiger unter hohem Druck stehen und Corona hat den Druck noch verstärkt. Um schnell Hilfe gewähren zu können, unterstützt die SPD ein solches Angebot."
+      },
+      "Linke": {
+        "position": "disagree",
+        "statement": "Wir würden eine solche Aufgabe eher beim Kreis sehen, da dort im Jugend- oder Gesundheitsamt auch die notwendige Kompetenz vorhanden ist bzw. aufgebaut werden kann."
+      },
+      "FWE": {
+        "position": "neutral",
+        "statement": "Die Stadt Eschborn und der Main-Taunus-Kreis bieten bereits umfassende Beratungs- und Betreuungsangebote für Kinder und Jugendliche, die auch mit den Schulen kooperieren. Aus Sicht der FWE sollte die Schulsozialarbeit auf alle Eschborner Schulen ausgedehnt werden. Für zusätzliche jugendpsychologische Betreuung sehen wir zur Zeit keinen Bedarf. Dagegen sprechen wir uns für eine finanzielle Unterstützung durch die Stadt für psychologische Projekte an den Eschborner Kinderbetreuungseinrichungen und Schulen aus. Beipsielswseise für regelmäßige Projekttage zu Themen wie Konfliktbewältigung oder Gewaltprävention, um Kinder, Mitarbeiterinnen und Mitarbeiter sowie Eltern für ein positives, gewaltfreies Miteinander zu sensibilisieren und zu schulen. Die in einigen Eschborner Einrichtungen bestehende Projekte könnten dafür als Vorlage gelten.  "
+      }
+    }
+  }, {
+    "image": {
+      "desktop": "/assets/header/stadthalle_desktop.jpg",
+      "mobile": "/assets/header/stadthalle_mobile.jpg",
+      "alttext": "Eschborner Stadthalle am Rathaus"
+    },
+    "category": "Stadthalle",
+    "thesis": "Der Neubau der Stadthalle soll weiterhin Teil des Rathauses sein und sich in Stil und Größe an den Rathausplatz einfügen.",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1qIJ24fwTYnXjMx6akkWmElNHhW8WDs7d&ll=50.140826607688986%2C8.573456336733049&z=19\" target=\"_blank\" rel=\"noopener\">Standort der Stadthalle</a>",
+    "evaluation": {
+      "CDU": {
+        "position": "agree",
+        "statement": "Derzeit läuft ein Architektenwettbewerb – auf Grundlage eines überparteilich entworfenen Grundkonzeptes. Ein Leitgedanke ist, dass sich der Neubau der Stadthalle städtebaulich ins Gesamtensemble des Rathausplatzes einfügt und es Synergien mit dem Rathaus gibt. Das unterstützen wir ausdrücklich."
+      },
+      "Grüne": {
+        "position": "neutral",
+        "statement": "Baurechtlich kann es nachteilig sein, wenn die neue Stadthalle und das vorhandene Rathaus eine bauliche Einheit bilden. Dies gilt es bei der künftigen Lösung zu beachten."
+      },
+      "FDP": {
+        "position": "agree",
+        "statement": ""
+      },
+      "SPD": {
+        "position": "agree",
+        "statement": "Die SPD steht zu den bisherigen Plänen, wonach der Neubau der Stadthalle am jetzigen Standort erfolgt. Der derzeit laufende Architektenwettbewerb wird dazu Vorschläge machen."
+      },
+      "Linke": {
+        "position": "agree",
+        "statement": "Die neue Stadthalle muss baldmöglichst kommen. Für uns ist unverändert der Platz neben dem Rathaus im Bereich des jetzigen Parkdecks der richtige Standort. Dass sie dem Umfeld angepasst gestaltet werden soll, ist selbstverständlich, und wir vertrauen darauf, dass der Architektenwettbewerb eine gute Lösung hervorbringt."
+      },
+      "FWE": {
+        "position": "agree",
+        "statement": "Nachdem der von der FWE maßgeblich initiierte Bürgerentscheid den Erhalt des Eschborner Rathauses zur Folge hatte, ist auch für die FWE der Neubau der Stadthalle eines der wichtigsten Bauprojekte in Eschborn. Die FWE plädiert dafür, diesen Bau in einem Gesamtkonzept mit der Sanierung des Rathauses zu planen und umzusetzen. Dazu gehört auch eine genaue Betrachtung, wie sich der Stadthallenneubau an das bestehende Rathaus anfügen kann und welche Baumaßnahmen für das Gesamtprojekt notwendig sind. Für die FWE ist es wichtig, dass die neue Stadthalle und die durch diesen Neubau notwendigen Veränderungen am Baukörper des Rathauses sich in Stil und Größe in die Umgebung des Rathausplatzes einfügen."
+      }
+    }
+  }]
+}

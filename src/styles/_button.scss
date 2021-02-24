@@ -1,0 +1,182 @@
+.btn {
+  border: 2px solid transparent;
+  border-radius: 5px 5px 0 0;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 0px; /* Hat Abstand nach oben, der bei Hover und Active größer wird, um den Drücken-Effekt zu erzielen */
+  margin-bottom: 0px; /* Hat Abstand nach unten, der bei Hover und Active verschwindet, damit der nachfolgende Inhalt nicht springt */
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+
+  /* Colors */
+  background: hsl(0deg 0% 92%);
+  border-color: hsl(0deg 0% 40%);
+  box-shadow: 5px 20px 8px hsla(0deg, 0%, 30%, 0.3);
+  color: hsl(0deg, 0%, 20%);
+
+  /* Styling für Demo */
+  font-size: inherit;
+  font-family: inherit;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .8px;
+  outline: none;
+}
+
+.btn:hover {
+  background: hsl(0deg 0% 86%);
+  box-shadow: 4px 12px 8px hsla(0deg, 0%, 30%, 0.25);
+  margin-top: 3px;
+  margin-bottom: -3px;
+}
+
+.btn:active {
+  box-shadow: 2px 8px 4px hsla(0deg, 0%, 30%, 0.2);
+  margin-top: 8px;
+  margin-bottom: -8px;
+}
+
+.btn:focus {
+  outline: 0; /* Entfernt die Standard Outline beim Fokus */
+}
+
+/* Unsichtbarer klickbarer Bereich, um den Klick-Todeswinkel zu verhindern */
+.btn::before {
+  background: transparent; /* Kann für Vorschau-Zwecke farbig gestaltet werden */
+  content: "";
+  display: block;
+  height: 5px;
+  margin: 10px -12px -20px -12px;
+  position: absolute;
+  top: -12px;
+  width: calc(100% + 4px);
+}
+
+.btn:hover::before {
+  top: -17px;
+  height: 10px;
+}
+
+.btn:active::before {
+  top: -20px;
+  height: 13px;
+}
+
+/* Untere Seite des Buttons */
+.btn::after {
+  border: 2px solid transparent;
+  border-width: 0 2px 2px 2px;
+  border-radius: 0 0 5px 5px;
+  bottom: -11px;
+  content: "";
+  display: block;
+  height: 7px;
+  margin: 0 -12px;
+  position: absolute;
+  width: 100%;
+
+  /* Colors */
+  background: hsl(0deg 0% 75%);
+  border-color: hsl(0deg 0% 40%);
+}
+
+/* Untere Seite wird kleiner bei Hover */
+.btn:hover::after {
+  height: 4px;
+  bottom: -8px;
+}
+
+/* Untere Seite wird noch kleiner beim Klick */
+.btn:active::after {
+  height: 1px;
+  bottom: -5px;
+}
+
+/* Animations */
+.btn,
+.btn::before,
+.btn::after {
+  transition: all 0.05s;
+}
+
+/* Color Themes */
+
+/* success - green */
+
+.btn.success {
+  background: var(--clr-success-50);
+  border-color: var(--clr-success);
+  box-shadow: 5px 20px 8px hsla(80deg, 60%, 30%, 0.3);
+  color: hsl(80deg, 60%, 30%);
+}
+
+.btn.success:hover {
+  background: var(--clr-success-100);
+  box-shadow: 4px 12px 8px hsla(80deg, 60%, 30%, 0.25);
+}
+
+.btn.success:active {
+  box-shadow: 2px 8px 4px hsla(80deg, 60%, 30%, 0.2);
+}
+
+.btn.success::after {
+  background: var(--clr-success-300);
+  border-color: var(--clr-success);
+}
+
+/* error - red */
+
+.btn.error {
+  background: var(--clr-error-50);
+  border-color: var(--clr-error);
+  box-shadow: 5px 20px 8px hsla(20deg, 100%, 30%, 0.3);
+  color: hsl(20deg, 100%, 30%);
+}
+
+.btn.error:hover {
+  background: var(--clr-error-100);
+  box-shadow: 4px 12px 8px hsla(20deg, 100%, 30%, 0.25);
+}
+
+.btn.error:active {
+  box-shadow: 2px 8px 4px hsla(20deg, 100%, 30%, 0.2);
+}
+
+.btn.error::after {
+  background: var(--clr-error-300);
+  border-color: var(--clr-error);
+}
+
+/* primary - pink */
+
+.btn.primary {
+  background: hsl(344deg 85% 95%);
+  border-color: hsl(344deg 83% 55%);
+  box-shadow: 5px 20px 8px hsla(344deg, 90%, 30%, 0.3);
+  color: hsl(344deg, 85%, 30%);
+}
+
+.btn.primary:hover {
+  background: hsl(344deg 85% 90%);
+  box-shadow: 4px 12px 8px hsla(344deg, 90%, 30%, 0.25);
+}
+
+.btn.primary:active {
+  box-shadow: 2px 8px 4px hsla(344deg, 90%, 30%, 0.2);
+}
+
+.btn.primary::after {
+  background: hsl(344deg 85% 75%);
+  border-color: hsl(344deg 83% 55%);
+}
+
+.btn.width-100 {
+  width: calc(100% - 10px);
+}
+
+.btn.width-30em {
+  width: 12em;
+}
