@@ -1,12 +1,21 @@
-# Election Helper
-Webbased solution to assist in the decision-making process for an election.
+# Eschomat
+**Herzlich willkommen beim Eschomat! 👋**
 
-## Getting started
-**Development server**  
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Wir möchten dir und allen Bürger*innen Eschborns, insbesondere den Jung- und Erstwähler*innen, eine Anlaufstelle für die Kommunalwahl am 14. März 2021 bieten.
+
+Verschaffe dir mit dem Eschomat in wenigen Minuten einen Eindruck, welche Parteien deine Interessen vertreten.
+
+Anschließend empfehlen wir dir einen Blick in die Wahlprogramme 📚 der Parteien zu werfen, weil der Eschomat natürlich nicht allen Ideen der Parteien gerecht werden kann.
+
+Aber nun erstmal viel Spaß mit dem Eschomat! 👍
+## Erste Schritte
+Hier findest du Informationen wie du die ersten Schritte mit dem Quellcode machen kannst.
+
+**Vorraussetzungen**  
+Um mit der Anwendung arbeiten zu können benötigst du eine aktuelle Version von NodeJS.
+
+**Entwickluns-Server**  
+Führe `ng serve` in einer Kommandozeile im Hauptverzeichnis des Eschomat aus um einen Entwicklungsserver zu starten. Navigiere zu `http://localhost:4200/`. Die Anwendung läd sich selbständig neu wenn du Änderungen am Quellcode vornimmst.
 
 **Build**  
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-**Running unit tests**  
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Führe `ng build` in einer Kommandozeile im Hauptverzeichnis aus um das Projekt zu bauen. Die transpilierten Dateien werden im `dist/`-Verzeichnis gespeichert. Nutze den Parameter `--prod` für eine optimierte Ausgabe..
