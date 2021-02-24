@@ -1,29 +1,36 @@
-Prio 1:
-- [ ] PDF of positions and statements
-- [ ] "back" button
-- [ ] Avoid flapping because of missing "Weitere Informationen" (possible solution: increase margin-bottom below dots)
-
-Prio 2:
-- [ ] Statement Matrix on the result page
-- [ ] Order statements by position
+Technical improvements / performance optimization:
 - [ ] IE 11 - basic compatibility 
+- [ ] Idea: Lazyload image of next thesis
+- [ ] WebP integration
+
+SEO: 
+- [ ] Page title for theses, e.g. "Eschomat - These 1: 5G-Ausbau"
+- [ ] Readable Urls - but still redirect previous Urls to new Urs
 
 UX:
+- [ ] "back" button
 - [ ] Avoid flapping because of multiline categories
+- [ ] Dots "double click"-functionality to optimize mobile ux
 - [ ] Truncate long statements for better usability (e.g. https://justmarkup.com/articles/2017-01-12-truncating-and-revealing-text-the-show-more-and-read-more-patterns/ -> but more beautiful)
+- [ ] Avoid flapping because of missing "Weitere Informationen" (possible solution: increase margin-bottom below dots)
+- [ ] Swipe thesis
+- [ ] Dark mode
+
+Structure:
+- [ ] Order statements by position
+- [ ] Statement Matrix on the result page
 
 Content:
+- [ ] PDF of positions and statements
+- [ ] new FAQ entry for PDF
 
 Others:
-- [ ] WebP integration
 - [ ] PWA features
 - [ ] Unit tests
-- [ ] Readable Urls
 - [ ] Thesis preview?
-- [ ] Swipe thesis
 - [ ] Improve imports (@shared..etc)
 - [ ] Add security headers
-- [ ] Dark mode
+- [ ] [BUG] Disappearing logo in Firefox after being inactive for a while
 
 Done: 
 - [x] Add "CDU" 
