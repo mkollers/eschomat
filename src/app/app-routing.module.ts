@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { NetworkAwarePreloadStrategy } from '@shared/helper/preloading-strategies/network-aware-preload-strategy';
 
 const routes: Routes = [
   { path: '', loadChildren: () => import('./pages/landing-page/landing-page.module').then(m => m.LandingPageModule) },
@@ -12,7 +13,8 @@ const routes: Routes = [
 
 @NgModule({
   imports: [RouterModule.forRoot(routes, {
-    initialNavigation: 'enabled'
+    initialNavigation: 'enabled',
+    preloadingStrategy: NetworkAwarePreloadStrategy
   })],
   exports: [RouterModule]
 })
