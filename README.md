@@ -15,7 +15,7 @@ Hier findest du Informationen wie du die ersten Schritte mit dem Quellcode mache
 Um mit der Anwendung arbeiten zu können benötigst du eine aktuelle Version von NodeJS.
 Nachdem du NodeJS (mit NPM) installiert hast, führe `npm install` im Hauptverzeichnis des Eschomat aus, um die benötigten Abhängigkeiten zu installieren.
 
-**Entwickluns-Server**  
+**Entwicklungs-Server**  
 Führe `ng serve` in einer Kommandozeile im Hauptverzeichnis des Eschomat aus um einen Entwicklungsserver zu starten. Navigiere zu `http://localhost:4200/`. Die Anwendung läd sich selbständig neu wenn du Änderungen am Quellcode vornimmst.
 
 **Build**  
