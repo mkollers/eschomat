@@ -21,5 +21,5 @@ Führe `ng serve` in einer Kommandozeile im Hauptverzeichnis des Eschomat aus um
 **Build**  
 Führe `ng build` in einer Kommandozeile im Hauptverzeichnis aus um das Projekt zu bauen. Die transpilierten Dateien werden im `dist/`-Verzeichnis gespeichert. Nutze den Parameter `--prod` für eine optimierte Ausgabe.
 
-**Statische Pre-Rendered Version**
+**Statische Pre-Rendered Version**  
 Wir nutzen die prerendered Version für den Eschomat, um die bestmögliche Performance zu ermöglichen und die Seite technologisch so einfach wie möglich zu belassen. Um das Ergebnis zu bekommen führe einfach `npm run prerender`aus.
