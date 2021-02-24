@@ -1,12 +1,12 @@
 import { NgModule, PLATFORM_ID } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { storageFactory } from '@shared/helper/factories/storage.factory';
+import { STORAGE } from '@shared/helper/injection-tokens/storage.injection-token';
+import { LayoutModule } from '@shared/layout/layout.module';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { storageFactory } from './shared/helper/factories/storage.factory';
-import { STORAGE } from './shared/helper/injection-tokens/storage.injection-token';
-import { LayoutModule } from './shared/layout/layout.module';
 
 @NgModule({
   declarations: [
