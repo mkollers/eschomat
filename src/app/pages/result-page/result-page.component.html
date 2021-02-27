@@ -1,6 +1,10 @@
 <h1>Dein Eschomat-Ergebnis</h1>
 <pre>
-  Wir freuen uns, dass du den Eschomat genutzt hast. 🥳 Hohe Übereinstimmungen deiner Antworten mit mehreren Parteien bedeuten nicht zwangsläufig eine inhaltliche Nähe dieser Parteien zueinander. Wir empfehlen dir die verlinkten Wahlprogramme anzuschauen, bevor du eine finale Wahlentscheidung triffst.
+  Wir freuen uns, dass du den Eschomat genutzt hast. 🥳 Hohe Übereinstimmungen deiner Antworten mit mehreren Parteien bedeuten nicht zwangsläufig eine inhaltliche Nähe dieser Parteien zueinander. Wir empfehlen dir die Wahlprogramme anzuschauen, bevor du eine finale Wahlentscheidung triffst.
+</pre>
+<pre>
+  <strong>📚 Wahlprogramme:</strong> <a href="https://cdueschborn.de/kommunalwahl2021-programm.html" target="_blank" rel="noopener">CDU</a>, <a href="https://fdp-eschborn.de/wp-content/uploads/2021/02/Wahlprogramm-2021-2026.pdf" target="_blank" rel="noopener">FDP</a>, <a href="https://fweschborn.de/wp-content/uploads/2021/01/wahlprogramm-fwe-2021-2.pdf" target="_blank" rel="noopener">FWE</a>, <a href="https://www.grueneeschborn.de/wp-content/uploads/2020/12/Programm_Eschborn-2021-2026.pdf" target="_blank" rel="noopener">Grüne</a>, <a href="/assets/manifestos/Die_Linke_Wahlprogramm_2021_Eschborn.pdf" target="_blank" rel="noopener">Linke</a>, <a href="https://www.spd-eschborn.de/wp-content/uploads/sites/1032/2021/01/21-03-14-spd-eschborn-wahlprogramm-web.pdf" target="_blank" rel="noopener">SPD</a> (alphabetisch sortiert)<br>
+  <strong>📋 „Offline-Eschomat“:</strong> <a href="/Eschomat-Positionen-und-Statements.pdf" target="_blank">Positionen und Statements der Parteien</a>
 </pre>
 <section class="card" *ngFor="let party of result | keyvalue | sortBy: 'value':'desc'" [class]="party.key">
   <section class="card--image" *ngIf="config.parties[party.key]?.logo">

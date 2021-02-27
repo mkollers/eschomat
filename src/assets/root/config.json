@@ -47,6 +47,12 @@
     "question": "Wo finde ich die Wahlprogramme?",
     "answer": "Natürlich hier bei uns. 👉 <a href=\"https://cdueschborn.de/kommunalwahl2021-programm.html\" target=\"_blank\" rel=\"noopener\">CDU</a>, <a href=\"https://fdp-eschborn.de/wp-content/uploads/2021/02/Wahlprogramm-2021-2026.pdf\" target=\"_blank\" rel=\"noopener\">FDP</a>, <a href=\"https://fweschborn.de/wp-content/uploads/2021/01/wahlprogramm-fwe-2021-2.pdf\" target=\"_blank\" rel=\"noopener\">FWE</a>, <a href=\"https://www.grueneeschborn.de/wp-content/uploads/2020/12/Programm_Eschborn-2021-2026.pdf\" target=\"_blank\" rel=\"noopener\">Grüne</a>, <a href=\"/assets/manifestos/Die_Linke_Wahlprogramm_2021_Eschborn.pdf\" target=\"_blank\" rel=\"noopener\">Linke</a>, <a href=\"https://www.spd-eschborn.de/wp-content/uploads/sites/1032/2021/01/21-03-14-spd-eschborn-wahlprogramm-web.pdf\" target=\"_blank\" rel=\"noopener\">SPD</a> (alphabetisch sortiert)."
   }, {
+    "question": "Worauf basiert die Bewertung und wie wird das Ergebnis berechnet?",
+    "answer": "Die Parteien haben sich zu jeder These „positioniert“. Diese Positionierung ist die Grundlage der Berechnung. Stimmst du mit einer Partei bei einer These überein, gibt es zwei von zwei Punkten. Weicht ihr etwas voneinander ab (z.B. stimmst du einer These zu und eine Partei ist neutral), gibt es immerhin einen Punkt. Weicht ihr dagegen grundsätzlich voneinander ab, gibt es keine Punkte. Diese werden schließlich addiert und durch 64 geteilt (32 Thesen × 2). Daraus ergibt sich die Prozentzahl."
+  }, {
+    "question": "Gibt es den Eschomat auch „offline“?",
+    "answer": "Wir haben für dich ein PDF-Download mit allen Antworten der Parteien in einer Übersicht: <a href=\"Eschomat-Positionen-und-Statements.pdf\" target=\"_blank\">Positionen und Statements der Parteien</a>."
+  }, {
     "question": "Ich kenne mich nicht so gut in Eschborn aus. Wo befinden sich die besprochen Themen?",
     "answer": "Für diesen Zweck haben wir <a href=\"https://www.google.com/maps/d/u/2/edit?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&usp=sharing\" target=\"_blank\" rel=\"noopener\">eine Karte 🗺️ erstellt</a>, auf der die prägnantesten Orte des Eschomat festgehalten sind."
   }, {
