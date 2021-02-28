@@ -39,13 +39,19 @@
     "answer": "Der Eschomat soll vor allem Jung- und Erstwähler*Innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Wenn er dann noch das Interesse an den Kommunalwahlen erhöht, sind wir sehr glücklich."
   }, {
     "question": "Wer seid ihr und warum macht ihr das?",
-    "answer": "Das Projekt wird von Stefan Eckner und Markus Kollers umgesetzt. Wir sind in Eschborn groß geworden und sowohl privat als auch beruflich begeistert von der digitalen Welt. Unser Antrieb ist unsere Heimatstadt digitaler aufzustellen und das Interesse für die Kommunalwahlen zu stärken."
+    "answer": "Das Projekt wird von Stefan Eckner und Markus Kollers umgesetzt.\n<img src=\"Stefan_Eckner.jpg\" alt=\"Stefan Eckner\" title=\"Stefan Eckner\" style=\"width: calc(50% - 5px); margin-right: 10px;\"><img src=\"Markus_Kollers.jpg\" alt=\"Markus Kollers\" title=\"Markus Kollers\" style=\"width: calc(50% - 5px);\">Wir sind in Eschborn groß geworden und sowohl privat als auch beruflich begeistert von der digitalen Welt. Unser Antrieb ist unsere Heimatstadt digitaler aufzustellen und das Interesse für die Kommunalwahlen zu stärken."
   }, {
     "question": "Soll ich mich bei der Wahl am Eschomat orientieren?",
     "answer": "Nein, bitte nicht. Dein Ergebnis beim Eschomat wird sicherlich Tendenzen aufzeigen, aber wir empfehlen dir einen Blick in die Wahlprogramme der Parteien zu werfen. Schließlich kann der Eschomat mit seinen Thesen nur einen Bruchteil der politischen Ideen abdecken. Zudem solltest du daran denken, dass bei der Kommunalwahl durch das Kumulieren und Panaschieren mit der Personalwahl eine persönliche Ebene hinzukommt, die der Eschomat nicht ansatzweise abbilden kann."
   }, {
     "question": "Wo finde ich die Wahlprogramme?",
     "answer": "Natürlich hier bei uns. 👉 <a href=\"https://cdueschborn.de/kommunalwahl2021-programm.html\" target=\"_blank\" rel=\"noopener\">CDU</a>, <a href=\"https://fdp-eschborn.de/wp-content/uploads/2021/02/Wahlprogramm-2021-2026.pdf\" target=\"_blank\" rel=\"noopener\">FDP</a>, <a href=\"https://fweschborn.de/wp-content/uploads/2021/01/wahlprogramm-fwe-2021-2.pdf\" target=\"_blank\" rel=\"noopener\">FWE</a>, <a href=\"https://www.grueneeschborn.de/wp-content/uploads/2020/12/Programm_Eschborn-2021-2026.pdf\" target=\"_blank\" rel=\"noopener\">Grüne</a>, <a href=\"/assets/manifestos/Die_Linke_Wahlprogramm_2021_Eschborn.pdf\" target=\"_blank\" rel=\"noopener\">Linke</a>, <a href=\"https://www.spd-eschborn.de/wp-content/uploads/sites/1032/2021/01/21-03-14-spd-eschborn-wahlprogramm-web.pdf\" target=\"_blank\" rel=\"noopener\">SPD</a> (alphabetisch sortiert)."
+  }, {
+    "question": "Worauf basiert die Bewertung und wie wird das Ergebnis berechnet?",
+    "answer": "Die Parteien haben sich zu jeder These „positioniert“. Diese Positionierung ist die Grundlage der Berechnung. Stimmst du mit einer Partei bei einer These überein, gibt es zwei von zwei Punkten. Weicht ihr etwas voneinander ab (z.B. stimmst du einer These zu und eine Partei ist neutral), gibt es immerhin einen Punkt. Weicht ihr dagegen grundsätzlich voneinander ab, gibt es keine Punkte. Diese werden schließlich addiert und durch 64 geteilt (32 Thesen × 2). Daraus ergibt sich die Prozentzahl."
+  }, {
+    "question": "Gibt es den Eschomat auch „offline“?",
+    "answer": "Wir haben für dich ein PDF-Download mit allen Antworten der Parteien in einer Übersicht: <a href=\"Eschomat-Positionen-und-Statements.pdf\" target=\"_blank\">Positionen und Statements der Parteien</a>."
   }, {
     "question": "Ich kenne mich nicht so gut in Eschborn aus. Wo befinden sich die besprochen Themen?",
     "answer": "Für diesen Zweck haben wir <a href=\"https://www.google.com/maps/d/u/2/edit?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&usp=sharing\" target=\"_blank\" rel=\"noopener\">eine Karte 🗺️ erstellt</a>, auf der die prägnantesten Orte des Eschomat festgehalten sind."
@@ -123,7 +129,7 @@
       },
       "FWE": {
         "position": "agree",
-        "statement": "Aus Sicht der FWE gehört es zu den Kernaufgaben einer Kommune,  auch für einkommensschwächere Mitbürgerinnen und Mitbürger adäquaten Wohnraum zu schaffen. Aus diesem Grund wird sich die FWE auch in der nächsten Wahlperiode für die Schaffung von Wohnraum für alle, insbesondere auch für den Bau von souila gefördertem Wohnraum einsetzen. Im letzten Jahr wurde bereits mit Unterstützung der FWE der Bau von 48 Sozialwohnungen im Stadtgebiet beschlossen. Auch und gerade beim Bau von städtischem Wohnraum sollen die Ideen und Forderungen der FWE zu Klimaschutz und kommunaler Wärmeplanung berücksichtigt werden."
+        "statement": "Aus Sicht der FWE gehört es zu den Kernaufgaben einer Kommune,  auch für einkommensschwächere Mitbürgerinnen und Mitbürger adäquaten Wohnraum zu schaffen. Aus diesem Grund wird sich die FWE auch in der nächsten Wahlperiode für die Schaffung von Wohnraum für alle, insbesondere auch für den Bau von sozial gefördertem Wohnraum einsetzen. Im letzten Jahr wurde bereits mit Unterstützung der FWE der Bau von 48 Sozialwohnungen im Stadtgebiet beschlossen. Auch und gerade beim Bau von städtischem Wohnraum sollen die Ideen und Forderungen der FWE zu Klimaschutz und kommunaler Wärmeplanung berücksichtigt werden."
       }
     }
   }, {
@@ -150,7 +156,7 @@
       },
       "SPD": {
         "position": "agree",
-        "statement": "Auch die Mitglieder der SPD sind Bürger:innen dieser Stadt und wir wünschen uns die Beteiligung vieler Menschen an politischen Entscheidungen. Aktive Kommunalpolitik wie der Bürgerhaushalt ist praktische Demokratie. Nur durch aktive Teilhabe der Bürger kann Vertrauen in die Politik hergestellt werden. Nur ein Bürgerhaushalt, der den Bürgern auch die Möglichkeit gibt, Projekte anderes zu Priorisieren, ist ein wirklicher Bürgerhaushalt. Der aktuell verabschiedete umfaßt diese Möglichkeiten nicht und sollte daher nach dem Darmstädter Modell erweitert werden."
+        "statement": "Auch die Mitglieder der SPD sind Bürger:innen dieser Stadt und wir wünschen uns die Beteiligung vieler Menschen an politischen Entscheidungen. Aktive Kommunalpolitik wie der Bürgerhaushalt ist praktische Demokratie. Nur durch aktive Teilhabe der Bürger kann Vertrauen in die Politik hergestellt werden. Nur ein Bürgerhaushalt, der den Bürgern auch die Möglichkeit gibt, Projekte anderes zu Priorisieren, ist ein wirklicher Bürgerhaushalt. Der aktuell verabschiedete umfasst diese Möglichkeiten nicht und sollte daher nach dem Darmstädter Modell erweitert werden."
       },
       "Linke": {
         "position": "agree",
@@ -189,7 +195,7 @@
       },
       "Linke": {
         "position": "agree",
-        "statement": "Nicht nur die Stadtteile solllen besser verbunden werden, sondern generell die umweltfreundliche Mobilität innerhalb der Stadt und mit den Nachbargemeinden soll attraktiver werden - sei es zu Fuß, mit dem Fahrrad oder mit dem Bus. Innerstädtische Buslinien zum Nulltarif oder zu stark subventionierten Preisen sind dazu ein wichtiger Baustein. Diese Busse müssen selbstverständlich lokal emissionsfrei sein und folglich E-Antrieb haben. "
+        "statement": "Nicht nur die Stadtteile sollen besser verbunden werden, sondern generell die umweltfreundliche Mobilität innerhalb der Stadt und mit den Nachbargemeinden soll attraktiver werden - sei es zu Fuß, mit dem Fahrrad oder mit dem Bus. Innerstädtische Buslinien zum Nulltarif oder zu stark subventionierten Preisen sind dazu ein wichtiger Baustein. Diese Busse müssen selbstverständlich lokal emissionsfrei sein und folglich E-Antrieb haben. "
       },
       "FWE": {
         "position": "agree",
@@ -224,11 +230,11 @@
       },
       "Linke": {
         "position": "neutral",
-        "statement": "Genausowenig wie die Stadt in der Vergangenheit eigene Tankstellen gebaut hat, ist es auch nicht zwingend eine Aufgabe der Stadt, Ladestationen für E-Autos zu bauen. Dies sollten die Stromanbieter und/oder die Autoindustrie vorrangig selbst übernehmen. Wichtig ist aber, dass die Stadt die Voraussetzungen dafür verbessert und nicht Obstruktionspolitik betreibt (zum Beispiel indem sie regelmäßig eine der wenigen Ladesäulen in Eschborn für die Sammlung von „Kleinelektroschrott“ sperrt)."
+        "statement": "Genauso wenig wie die Stadt in der Vergangenheit eigene Tankstellen gebaut hat, ist es auch nicht zwingend eine Aufgabe der Stadt, Ladestationen für E-Autos zu bauen. Dies sollten die Stromanbieter und/oder die Autoindustrie vorrangig selbst übernehmen. Wichtig ist aber, dass die Stadt die Voraussetzungen dafür verbessert und nicht Obstruktionspolitik betreibt (zum Beispiel indem sie regelmäßig eine der wenigen Ladesäulen in Eschborn für die Sammlung von „Kleinelektroschrott“ sperrt)."
       },
       "FWE": {
         "position": "agree",
-        "statement": "Die Infrastruktur wird bereits aktiv durch Bundeszuschüsse (KfW) und durch die Stadt gefördert. Die Planung von E-Schnellladestationen sowie Wasserstoff-Fuels gehören mit in die Planung eines Verkehrskonzeptes für Eschborn, für das sich die FWE weiterhin einsetzt. Die Stadt Eschborn biete bereits verschiedene Förderungsmöglichkeiten an, die ab dem 1. Januar 2021 ausgeweitetete Förderungen für Solarstrom-Dachanlagen und erstmals auch für Stecker-Solarstrom-Anlagen (zB für Balkone), Stromspeicher und Ladestationen (Wallboxen) enthält. Die Stadt errichtet außerdem derzeit öffentliche Ladestationen im Stadtbereich. Ein Ausbau dieser Ladestatinen wird von der FWE befürwortet."
+        "statement": "Die Infrastruktur wird bereits aktiv durch Bundeszuschüsse (KfW) und durch die Stadt gefördert. Die Planung von E-Schnellladestationen sowie Wasserstoff-Fuels gehören mit in die Planung eines Verkehrskonzeptes für Eschborn, für das sich die FWE weiterhin einsetzt. Die Stadt Eschborn biete bereits verschiedene Förderungsmöglichkeiten an, die ab dem 1. Januar 2021 ausgeweitete Förderungen für Solarstrom-Dachanlagen und erstmals auch für Stecker-Solarstrom-Anlagen (z.B. für Balkone), Stromspeicher und Ladestationen (Wallboxen) enthält. Die Stadt errichtet außerdem derzeit öffentliche Ladestationen im Stadtbereich. Ein Ausbau dieser Ladestationen wird von der FWE befürwortet."
       }
     }
   }, {
@@ -255,7 +261,7 @@
       },
       "SPD": {
         "position": "agree",
-        "statement": "Für uns ist das Fahrrad als Altenative zum Auto wichtig. Als erstes Projekt soll dazu der verlängerte Dörnweg zwischen Eschborn und Niederhöchstadt von einem Feldweg zu einem Fahrrad und Fußgängerweg aufgewertet werden, um Fahrradfahrern aber auch Fußgängern die besten Möglichkeiten zu bieten in die beiden Stadteile zu gelangen."
+        "statement": "Für uns ist das Fahrrad als Alternative zum Auto wichtig. Als erstes Projekt soll dazu der verlängerte Dörnweg zwischen Eschborn und Niederhöchstadt von einem Feldweg zu einem Fahrrad und Fußgängerweg aufgewertet werden, um Fahrradfahrern aber auch Fußgängern die besten Möglichkeiten zu bieten in die beiden Stadtteile zu gelangen."
       },
       "Linke": {
         "position": "disagree",
@@ -623,12 +629,12 @@
       "alttext": "Restaurants und Geschäfte in der Stadtmitte"
     },
     "category": "Nahversorgung",
-    "thesis": "Die Nahversorgung soll gestärkt werden, indem Kleingewerbtreibende in städtischen Gebäuden finanziell unterstützt werden.",
+    "thesis": "Die Nahversorgung soll gestärkt werden, indem Kleingewerbetreibende in städtischen Gebäuden finanziell unterstützt werden.",
     "description": "",
     "evaluation": {
       "CDU": {
         "position": "disagree",
-        "statement": "Ein Einzelhandelskonzept zur Förderung von Kleinbetrieben, beispielsweise durch die Erstellung und Ertüchtigung von geeigneten Flächen mit wirtschaftlich sinnvollen finanziellen Rahmenbedinungen, soll erstellt werden. Eine direkte finanzielle Förderung von Kleinbetrieben ist für eine Stadt rechtlich kaum möglich und marktwirtschaftlich schwierig."
+        "statement": "Ein Einzelhandelskonzept zur Förderung von Kleinbetrieben, beispielsweise durch die Erstellung und Ertüchtigung von geeigneten Flächen mit wirtschaftlich sinnvollen finanziellen Rahmenbedingungen, soll erstellt werden. Eine direkte finanzielle Förderung von Kleinbetrieben ist für eine Stadt rechtlich kaum möglich und marktwirtschaftlich schwierig."
       },
       "Grüne": {
         "position": "disagree",
@@ -745,7 +751,7 @@
       },
       "SPD": {
         "position": "disagree",
-        "statement": "Eine anlasslose Massenüberwachung der Eschborner Bürger mittels Kameras stellt die Eschborner Bürger unter Generalverdacht. Daher sind wir gegen die anlaßlose Kameraüberwachung, welche einen massiven Eingriff in die Freiheitsrechte der Bürger darstellt."
+        "statement": "Eine anlasslose Massenüberwachung der Eschborner Bürger mittels Kameras stellt die Eschborner Bürger unter Generalverdacht. Daher sind wir gegen die anlasslose Kameraüberwachung, welche einen massiven Eingriff in die Freiheitsrechte der Bürger darstellt."
       },
       "Linke": {
         "position": "neutral",
@@ -850,7 +856,7 @@
       },
       "SPD": {
         "position": "agree",
-        "statement": "Hierzu wurden bereits mit den Stimmen der SPD in der Stadtverordnetenversammlung Beschlüsse gefaßt."
+        "statement": "Hierzu wurden bereits mit den Stimmen der SPD in der Stadtverordnetenversammlung Beschlüsse gefasst."
       },
       "Linke": {
         "position": "agree",
@@ -928,7 +934,7 @@
       },
       "FWE": {
         "position": "agree",
-        "statement": "Die Stadt Eschborn hat bereits eine gut funktionierende Förderung, die ab dem 1. Januar 2021 ausgeweitetete Förderungen für Solarstrom-Dachanlagen, und erstmals auch für Stecker-Solarstrom-Anlagen (zB für Balkone), Stromspeicher und Ladestationen (Wallboxen) enthält. "
+        "statement": "Die Stadt Eschborn hat bereits eine gut funktionierende Förderung, die ab dem 1. Januar 2021 ausgeweitete Förderungen für Solarstrom-Dachanlagen, und erstmals auch für Stecker-Solarstrom-Anlagen (z.B. für Balkone), Stromspeicher und Ladestationen (Wallboxen) enthält. "
       }
     }
   }, {
@@ -1060,7 +1066,7 @@
       },
       "SPD": {
         "position": "agree",
-        "statement": "Das Mietniveau in Eschborn ist so hoch, dass viele Familien und Normalverdiener kaum noch eine bezahlbare Wohnung finden. Auch junge Erwachsene und Auszubildende, die von zu Hause ausziehen und in Eschborn bleiben wollen, können sich die Mieten hier nicht leisten. Städtische Möglichkeiten, diese Situation zu ändern werden in Eschborn nicht ausreichend genutzt. Daher muß man auch dieses Gebiet ins Auge fassen."
+        "statement": "Das Mietniveau in Eschborn ist so hoch, dass viele Familien und Normalverdiener kaum noch eine bezahlbare Wohnung finden. Auch junge Erwachsene und Auszubildende, die von zu Hause ausziehen und in Eschborn bleiben wollen, können sich die Mieten hier nicht leisten. Städtische Möglichkeiten, diese Situation zu ändern werden in Eschborn nicht ausreichend genutzt. Daher muss man auch dieses Gebiet ins Auge fassen."
       },
       "Linke": {
         "position": "neutral",
@@ -1138,7 +1144,7 @@
       },
       "FWE": {
         "position": "neutral",
-        "statement": "Die Stadt Eschborn und der Main-Taunus-Kreis bieten bereits umfassende Beratungs- und Betreuungsangebote für Kinder und Jugendliche, die auch mit den Schulen kooperieren. Aus Sicht der FWE sollte die Schulsozialarbeit auf alle Eschborner Schulen ausgedehnt werden. Für zusätzliche jugendpsychologische Betreuung sehen wir zur Zeit keinen Bedarf. Dagegen sprechen wir uns für eine finanzielle Unterstützung durch die Stadt für psychologische Projekte an den Eschborner Kinderbetreuungseinrichungen und Schulen aus. Beipsielswseise für regelmäßige Projekttage zu Themen wie Konfliktbewältigung oder Gewaltprävention, um Kinder, Mitarbeiterinnen und Mitarbeiter sowie Eltern für ein positives, gewaltfreies Miteinander zu sensibilisieren und zu schulen. Die in einigen Eschborner Einrichtungen bestehende Projekte könnten dafür als Vorlage gelten.  "
+        "statement": "Die Stadt Eschborn und der Main-Taunus-Kreis bieten bereits umfassende Beratungs- und Betreuungsangebote für Kinder und Jugendliche, die auch mit den Schulen kooperieren. Aus Sicht der FWE sollte die Schulsozialarbeit auf alle Eschborner Schulen ausgedehnt werden. Für zusätzliche jugendpsychologische Betreuung sehen wir zur Zeit keinen Bedarf. Dagegen sprechen wir uns für eine finanzielle Unterstützung durch die Stadt für psychologische Projekte an den Eschborner Kinderbetreuungseinrichungen und Schulen aus. Beispielsweise für regelmäßige Projekttage zu Themen wie Konfliktbewältigung oder Gewaltprävention, um Kinder, Mitarbeiterinnen und Mitarbeiter sowie Eltern für ein positives, gewaltfreies Miteinander zu sensibilisieren und zu schulen. Die in einigen Eschborner Einrichtungen bestehende Projekte könnten dafür als Vorlage gelten.  "
       }
     }
   }, {
