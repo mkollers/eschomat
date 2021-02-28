@@ -11,6 +11,5 @@ import { Config, CONFIG } from 'src/config';
   }
 })
 export class AppComponent {
-  constructor(@Inject(CONFIG) public config: Config) {
-  }
+  constructor(@Inject(CONFIG) public config: Config) { }
 }

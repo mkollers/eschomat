@@ -1,35 +1,17 @@
-// import { TestBed } from '@angular/core/testing';
-// import { RouterTestingModule } from '@angular/router/testing';
-// import { AppComponent } from './app.component';
+import { Config } from 'src/config';
+import { Mock } from 'src/test';
 
-// describe('AppComponent', () => {
-//   beforeEach(async () => {
-//     await TestBed.configureTestingModule({
-//       imports: [
-//         RouterTestingModule
-//       ],
-//       declarations: [
-//         AppComponent
-//       ],
-//     }).compileComponents();
-//   });
+import { AppComponent } from './app.component';
 
-//   it('should create the app', () => {
-//     const fixture = TestBed.createComponent(AppComponent);
-//     const app = fixture.componentInstance;
-//     expect(app).toBeTruthy();
-//   });
+describe('AppComponent', () => {
+    it('should create', () => {
+        // Arrange
+        const config = new Mock<Config>();
 
-//   it(`should have as title 'eschomat'`, () => {
-//     const fixture = TestBed.createComponent(AppComponent);
-//     const app = fixture.componentInstance;
-//     expect(app.title).toEqual('eschomat');
-//   });
+        // Act
+        const app = new AppComponent(config.instance);
 
-//   it('should render title', () => {
-//     const fixture = TestBed.createComponent(AppComponent);
-//     fixture.detectChanges();
-//     const compiled = fixture.nativeElement;
-//     expect(compiled.querySelector('.content span').textContent).toContain('eschomat app is running!');
-//   });
-// });
+        // Assert
+        expect(app).toBeTruthy();
+    });
+});
